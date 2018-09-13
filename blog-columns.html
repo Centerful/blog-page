@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>专栏展示</title>
+<!-- <link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.min.css">
+<script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/js/mdui.min.js"></script> -->
+<link rel="stylesheet" href="./css/flex.css">
+<link rel="stylesheet" href="./css/tags-init.css">
+<link rel="stylesheet" href="./css/blog-home.css">
+<link rel="stylesheet" href="./css/blog-columns.css">
+<link rel="stylesheet" href="./blog-assets/waves.js/waves.css">
+
+</head>
+<body class="flex-mid flex-small">
+  <!-- 
+    左边是centerful的logo，右边是通知与用户信息 
+    当滚动条在顶部时使用轻UI设计，当滚动条滚动100px左右后浮现出toolbar——浮现与沉入是一个动画组。
+  -->
+  <!-- <div class="toolbar"></div> -->
+
+  <div class="content">
+    <div class="layout">
+      <div class="layout-head">
+        <div class="head-wapper">
+          <div class="head-inner">
+          </div>
+        </div>
+      </div>
+      <div class="layout-body">
+        <div class="columns-wapper">
+          <div class="columns-container">
+            <div class="blog-placeholder"></div>
+              <div class="columns-bg">
+                <img class="columns-bg-img" src="./blog-assets/columns-bg-typewriter.jpg" alt="">
+                <div class="columns-bg-bar">
+                  <div class="columns-bg-mask"></div>
+                  <div class="columns-bg-inner">
+                    <span class="columns-summary">随心写作，自由表达</span>
+                    <button class="columns-write-btn">开始写文章</button>
+                    <button class="columns-open-btn">开通专栏</button>
+                  </div>
+                </div>
+              </div>
+              <div class="columns-split-line">
+                <span class="columns-split-word">专栏 · 发现</span>
+              </div>
+              <div class="columns-items">
+                <div class="columns-item">
+                  <div class="columns-item-img">
+                    <div class="columns-item-bar">
+                      <!-- 连载中,完结 -->
+                      <div class="columns-item-status">连载中</div>
+                      <div class="columns-item-multi">...</div>
+                    </div>
+                    <img src="./blog-assets/hogwarts.jpg" alt="">  
+                  </div>
+                  <div class="columns-item-content">
+                    <div class="columns-item-title">霍格沃兹研究会</div>
+                    <div class="columns-item-summary">It is not our abilities that show what we truly are , it is our choices.</div>
+                    <div class="columns-item-footer">
+                      <div class="columns-item-left">
+                        <span class="columns-item-tag">哈利·波特</span>
+                      </div>
+                      <div class="columns-item-right">
+                        <span class="columns-item-founder">Centerful.</span>
+                        <span class="columns-item-article">1 篇文章</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="columns-item">
+                  <div class="columns-item-img">
+                    <div class="columns-item-bar">
+                      <!-- 连载中,完结 -->
+                      <div class="columns-item-status finish">完结</div>
+                      <div class="columns-item-multi">...</div>
+                    </div>
+                    <img src="./blog-assets/hogwarts.jpg" alt="">  
+                  </div>
+                  <div class="columns-item-content">
+                    <div class="columns-item-title">霍格沃兹研究会</div>
+                    <div class="columns-item-summary">It is not our abilities that show what we truly are , it is our choices.</div>
+                    <div class="columns-item-footer">
+                      <div class="columns-item-left">
+                        <span class="columns-item-tag">哈利·波特</span>
+                      </div>
+                      <div class="columns-item-right">
+                        <span class="columns-item-founder">Centerful.</span>
+                        <span class="columns-item-article">1 篇文章</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="loading-area">...</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="muti-btn">
+    <div class="blog-btn btn"></div>
+    <div class="note-btn btn"></div>
+    <div class="edit-btn btn"></div>
+    <div class="user-btn btn"></div>
+  </div>
+  <div class="footer"></div>
+  <script type="text/javascript" src="./blog-assets/waves.js/waves.js"></script>
+  <script>
+    // Waves.attach('.avatar-wapper-img', ['waves-circle']);
+    Waves.attach('.columns-item-img img');
+
+    Waves.init();
+  </script>
+</body>
+</html>

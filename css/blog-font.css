@@ -1,0 +1,139 @@
+/*
+  字体:微软雅黑;
+  英文字体可以选择其他的.一到两种.
+
+  字体大小:
+  Display - 大图片内嵌文字
+  HeadLine - 头行
+  SubHeadLine -子头行
+  Title - 标题
+  SubTitle - 子标题
+  bigger - 大一点的
+  normal - 正常
+  blog - 文章内容字体
+  small - 小一点的
+  little - 小的
+  mini - 最小的
+
+  字体颜色:
+  black - 黑色
+  gray1 - 灰色1 - 很接近黑色 
+  #222
+  #333
+  #444
+  #555
+  #666
+  #777
+  #888
+  #999
+  #AAA
+  ...
+  gray9 - 灰色9 - 很接近白色 aaaaaa
+  white - 白色
+
+
+
+  字体样式:
+  Bold - 加粗
+  Italic - 斜体
+ */
+/*字体*/
+.font {
+  
+}
+
+/*字体样式*/
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+
+/*字体灰度*/
+.gray0 {
+  color: #000;
+}
+.gray1 {
+  color: #111;
+}
+.gray2 {
+  color: #222;
+}
+.gray3 {
+  color: #333;
+}
+.gray4 {
+  color: #444;
+}
+.gray5 {
+  color: #555;
+}
+.gray6 {
+  color: #666;
+}
+.gray7 {
+  color: #777;
+}
+.gray8 {
+  color: #888;
+}
+.gray9 {
+  color: #999;
+}
+.graya {
+  color: #aaa;
+}
+.grayb {
+    color: #bbb;
+}
+.grayc {
+    color: #ccc;
+}
+.grayd {
+    color: #ddd;
+}
+.graye {
+    color: #eee;
+}
+.grayf {
+    color: #fff;
+}
+
+/*字体大小*/
+.f-display {
+  font-size: 2em;
+  font-weight: bold;
+}
+.f-headline {
+  font-size: 1.7em;
+  font-weight: bold;
+}
+.f-sub-headline {
+  font-size: 1.5em;
+}
+.f-title {
+  font-size: 1.35em;
+  font-weight: bold;
+}
+.f-sub-title {
+  font-size: 1.25em;
+}
+.f-bigger {
+  font-size: 1.15em;
+}
+.f-normal {
+  font-size: 1em;
+}
+.f-blog {
+  font-size: 0.96em;
+}
+.f-small {
+  font-size: 0.87em;
+}
+.f-little {
+  font-size: 0.82em;
+}
+.f-mini {
+  font-size: 0.75em;
+}

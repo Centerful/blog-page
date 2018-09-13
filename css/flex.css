@@ -1,0 +1,19 @@
+@media screen and (max-width: 1080px) {
+    .post-left-side.flex-mid {
+      width: 50%;
+    }
+    .post-right-side.flex-mid {
+      width: 50%;
+    }
+}
+@media screen and (max-width: 820px) {
+    .post-container.flex-small{
+      flex-direction: column;
+    }
+    .post-left-side.flex-mid.flex-small {
+      width: 100%;
+    }
+    .post-right-side.flex-mid.flex-small {
+      width: 100%;
+    }
+}

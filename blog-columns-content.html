@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>专栏内容展示</title>
+<!-- <link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.min.css">
+<script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/js/mdui.min.js"></script> -->
+<link rel="stylesheet" href="./css/flex.css">
+<link rel="stylesheet" href="./css/tags-init.css">
+<link rel="stylesheet" href="./css/blog-home.css">
+<link rel="stylesheet" href="./css/blog-columns.css">
+<link rel="stylesheet" href="./css/blog-columns-content.css">
+<link rel="stylesheet" href="./blog-assets/waves.js/waves.css">
+
+</head>
+<body class="flex-mid flex-small">
+  <!-- 
+    左边是centerful的logo，右边是通知与用户信息 
+    当滚动条在顶部时使用轻UI设计，当滚动条滚动100px左右后浮现出toolbar——浮现与沉入是一个动画组。
+  -->
+  <!-- <div class="toolbar"></div> -->
+
+  <div class="content">
+    <div class="layout">
+      <div class="layout-head">
+        <div class="head-wapper">
+          <div class="head-inner">
+          </div>
+        </div>
+      </div>
+      <div class="layout-body">
+        <div class="columns-wapper">
+          <div class="columns-container">
+            <div class="blog-placeholder"></div>
+              <div class="columns-cover">
+                <img src="./blog-assets/hogwarts.jpg" alt="" class="columns-cover-img">
+                <div class="columns-cover-bar">
+                  <div class="cover-bar-inner">
+                    <div class="cover-bar-left">
+                        <div class="bar-left-title">霍格沃兹研究会</div>
+                        <div class="bar-left-summary">It is not our abilities that show what we truly are , it is our choices.</div>
+                        <div class="bar-left-footer">
+                            <span class="columns-item-tag">哈利·波特</span>
+                            <span class="columns-item-article">1 篇文章</span>
+                        </div>
+                    </div>
+                    <div class="cover-bar-right">
+                      <div class="right-auth-avatar">
+                        <a class="auth-avatar-wapper" href="#">
+                          <img class="auth-avatar-img" src="./blog-assets/288e68614de3ed3b1b14f887d769cbd6_xs.jpg" alt="">
+                        </a>
+                      </div>
+                      <div class="right-auth-info">
+                        <div class="right-auth-name">Centerful.</div>
+                        <span class="right-auth-autograph">What they say about good things happening to those who wait. But only the things left behind by those who hustle.</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="columns-cover-mask"></div>
+                </div>
+              </div>
+              <div class="columns-split-line">
+                <span class="columns-split-word">专栏 · 文章</span>
+              </div>
+              <div class="columns-placeholder"></div>
+                      <article class="post-item">
+          <div class="post-container flex-small">
+            <div class="post-left-side flex-mid flex-small">
+              <div class="post-meta hot">
+                <img class="post-meta-img" src="./blog-assets/article-59521bcf81138.jpg">
+              </div>
+            </div>
+            <div class="post-right-side flex-mid flex-small">
+              <div class="post-title">
+                <a class="post-title-a" href="#">
+                  <h2>幸存的男孩</h2>
+                </a>
+              </div>
+              <div class="post-auth-date">
+                <span class="post-auth">by <a href="#" class="post-auth-a"> Centerful. </a></span>
+                <a href="#" class="post-date">2018-09-03</a>
+              </div>
+              <div class="post-content">
+                <p>
+                  住在四号普里怀特街的杜斯利先生及夫人非常骄傲地宣称自己是十分正常的人。但是他们最不希望见到的就是任何奇怪或神秘故事中的人物因为他们对此总是嗤之以鼻。
+                  杜斯利先生是一家叫作格朗宁斯的钻机工厂的老板。他非常肥壮、结实几乎肥到没有颈根但却有一把大胡子。杜斯利夫人则非常苗条一头金。她的颈根有常人的两倍那么长这使得她整天伸长脖...
+                </p>
+              </div>
+              <div class="post-footer">
+                <div class="footer-container">
+                  <span class="footer-tags">
+                    <a class="footer-tags-a" href="#">哈利·波特</a>
+                    <a class="footer-tags-a" href="#">霍格沃茨</a>
+                  </span>
+                  <a href="#" class="footer-comments"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+        <article class="post-item">
+          <div class="post-container flex-small">
+            <div class="post-left-side flex-mid flex-small">
+              <div class="post-meta">
+                <img class="post-meta-img" src="./blog-assets/Blog_2-1024x683.jpg">
+              </div>
+            </div>
+            <div class="post-right-side flex-mid flex-small">
+              <div class="post-title">
+                <a class="post-title-a" href="#">
+                  <h2>Creative day off</h2>
+                </a>
+              </div>
+              <div class="post-auth-date">
+                <span class="post-auth">by <a href="#" class="post-auth-a"> shufflehound </a></span>
+                <a href="#" class="post-date">February 23, 2016</a>
+              </div>
+              <div class="post-content">
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultrices diam lorem, sit amet ullamcorper elit vulputate posuere. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla nec lacus ultricies, rhoncus risus eget, sodales ex. In malesuada urna magna. Vestibulum ante…
+                </p>
+              </div>
+              <div class="post-footer">
+                <div class="footer-container">
+                  <span class="footer-tags">
+                    <a class="footer-tags-a" href="#">NEWS</a>
+                    <a class="footer-tags-a" href="#">TRAVEL</a>
+                  </span>
+                  <a href="#" class="footer-comments"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+        <article class="post-item">
+          <div class="post-container flex-small">
+            <div class="post-left-side flex-mid flex-small">
+              <div class="post-meta">
+                <img class="post-meta-img" src="./blog-assets/Blog_3-1024x683.jpg">
+              </div>
+            </div>
+            <div class="post-right-side flex-mid flex-small">
+              <div class="post-title">
+                <a class="post-title-a" href="#">
+                  <h2>The smell of roses</h2>
+                </a>
+              </div>
+              <div class="post-auth-date">
+                <span class="post-auth">by <a href="#" class="post-auth-a"> shufflehound </a></span>
+                <a href="#" class="post-date">February 24, 2016</a>
+              </div>
+              <div class="post-content">
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultrices diam lorem, sit amet ullamcorper elit vulputate posuere. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla nec lacus ultricies, rhoncus risus eget, sodales ex. In malesuada urna magna. Vestibulum ante…
+                </p>
+              </div>
+              <div class="post-footer">
+                <div class="footer-container">
+                  <span class="footer-tags">
+                    <a class="footer-tags-a" href="#">NEWS</a>
+                    <a class="footer-tags-a" href="#">UNCATEGORIZED</a>
+                  </span>
+                  <a href="#" class="footer-comments"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+        <article class="post-item">
+          <div class="post-container flex-small">
+            <div class="post-left-side flex-mid flex-small">
+              <div class="post-meta">
+                <img class="post-meta-img" src="./blog-assets/Blog_4-1024x683.jpg">
+              </div>
+            </div>
+            <div class="post-right-side flex-mid flex-small">
+              <div class="post-title">
+                <a class="post-title-a" href="#">
+                  <h2>Discovering the space</h2>
+                </a>
+              </div>
+              <div class="post-auth-date">
+                <span class="post-auth">by <a href="#" class="post-auth-a"> shufflehound </a></span>
+                <a href="#" class="post-date">February 26, 2016</a>
+              </div>
+              <div class="post-content">
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu vulputate elit. Quisque a eleifend velit. Nullam pellentesque ligula aliquam, tempus eros vitae, hendrerit tellus. Praesent volutpat rutrum tortor. Quisque sit amet justo semper, porta metus id, ultrices ante. Nulla sem sem, bibendum eu magna…
+                </p>
+              </div>
+              <div class="post-footer">
+                <div class="footer-container">
+                  <span class="footer-tags">
+                    <a class="footer-tags-a" href="#">DESIGN</a>
+                    <a class="footer-tags-a" href="#">UNCATEGORIZED</a>
+                  </span>
+                  <a href="#" class="footer-comments"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+        <article class="post-item">
+          <div class="post-container flex-small">
+            <div class="post-left-side flex-mid flex-small">
+              <div class="post-meta">
+                <img class="post-meta-img" src="./blog-assets/Blog_5-1024x683.jpg">
+              </div>
+            </div>
+            <div class="post-right-side flex-mid flex-small">
+              <div class="post-title">
+                <a class="post-title-a" href="#">
+                  <h2>The new reserch</h2>
+                </a>
+              </div>
+              <div class="post-auth-date">
+                <span class="post-auth">by <a href="#" class="post-auth-a"> shufflehound </a></span>
+                <a href="#" class="post-date">February 27, 2016</a>
+              </div>
+              <div class="post-content">
+                <p>
+                  Vivamus condimentum purus in lorem molestie fermentum. Nulla suscipit nibh eu ultricies pellentesque. Fusce consectetur velit eu tristique dapibus. Donec et lobortis massa, vitae lacinia elit. Proin dolor dui, tempus eu leo vitae, congue venenatis augue. Morbi pharetra urna quis lectus pulvinar, non tincidunt purus…
+                </p>
+              </div>
+              <div class="post-footer">
+                <div class="footer-container">
+                  <span class="footer-tags">
+                    <a class="footer-tags-a" href="#">NEWS</a>
+                  </span>
+                  <a href="#" class="footer-comments"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+        <article class="post-item">
+          <div class="post-container flex-small">
+            <div class="post-left-side flex-mid flex-small">
+              <div class="post-meta">
+                <img class="post-meta-img" src="./blog-assets/Blog_6-1024x683.jpg">
+              </div>
+            </div>
+            <div class="post-right-side flex-mid flex-small">
+              <div class="post-title">
+                <a class="post-title-a" href="#">
+                  <h2>New delivery system</h2>
+                </a>
+              </div>
+              <div class="post-auth-date">
+                <span class="post-auth">by <a href="#" class="post-auth-a"> shufflehound </a></span>
+                <a href="#" class="post-date">February 25, 2016</a>
+              </div>
+              <div class="post-content">
+                <p>
+                  Vivamus condimentum purus in lorem molestie fermentum. Nulla suscipit nibh eu ultricies pellentesque. Fusce consectetur velit eu tristique dapibus. Donec et lobortis massa, vitae lacinia elit. Proin dolor dui, tempus eu leo vitae, congue venenatis augue. Morbi pharetra urna quis lectus pulvinar, non tincidunt purus…
+                </p>
+              </div>
+              <div class="post-footer">
+                <div class="footer-container">
+                  <span class="footer-tags">
+                    <a class="footer-tags-a" href="#">DESIGN</a>
+                    <a class="footer-tags-a" href="#">NEWS</a>
+                  </span>
+                  <a href="#" class="footer-comments"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+              <div class="loading-area">...</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="muti-btn">
+    <div class="blog-btn btn"></div>
+    <div class="note-btn btn"></div>
+    <div class="edit-btn btn"></div>
+    <div class="user-btn btn"></div>
+  </div>
+  <div class="footer">
+    Website design by <span>Centerful.</span>
+  </div>
+  <script type="text/javascript" src="./blog-assets/waves.js/waves.js"></script>
+  <script>
+    // Waves.attach('.avatar-wapper-img', ['waves-circle']);
+    Waves.attach('.post-meta-img');
+
+    Waves.init();
+  </script>
+</body>
+</html>

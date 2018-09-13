@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>个人主页</title>
+<!-- <link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.min.css">
+<script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/js/mdui.min.js"></script> -->
+<link rel="stylesheet" href="./css/flex.css">
+<link rel="stylesheet" href="./css/tags-init.css">
+<link rel="stylesheet" href="./css/blog-home.css">
+<link rel="stylesheet" href="./css/blog-auth-info.css">
+
+<link rel="stylesheet" href="./blog-assets/waves.js/waves.css">
+
+</head>
+<body class="flex-mid flex-small">
+  <!-- 
+    左边是centerful的logo，右边是通知与用户信息 
+    当滚动条在顶部时使用轻UI设计，当滚动条滚动100px左右后浮现出toolbar——浮现与沉入是一个动画组。
+  -->
+  <!-- <div class="toolbar"></div> -->
+
+  <div class="content">
+    <div class="layout">
+      <div class="layout-head">
+        <div class="head-wapper">
+          <div class="head-inner">
+          </div>
+        </div>
+      </div>
+      <div class="layout-body">
+        <div class="author-wapper">
+          <div class="author-placeholder"></div>
+          <div class="author-full-wapper">
+            <div class="full-wapper-img">
+              <img src="blog-assets/author-wapper-img.jpg" alt="">
+            </div>
+            <button class="full-wapper-btn">上传图片</button>
+          </div>
+          <div class="author-info-container">
+            <div class="author-info">
+              <div class="author-avatar">
+                <img src="blog-assets/deer-avatar.png" alt="">
+              </div>
+              <div class="author-meta">
+                <span class="author-name">Centerful.</span>
+                <div class="author-autograph">What they say about good things happening to those who wait. But only the things left behind by those who hustle.</div>
+              </div>
+              <div class="author-update-btn">修改</div>
+            </div>
+            <div class="meta-main">
+              <div class="meta-title">个人信息</div>
+              <div class="meta-container"></div>
+              <div class="meta-title">Skill</div>
+              <div class="meta-container"></div>
+              <div class="meta-title">Tower of Babel</div>
+              <div class="meta-container"></div>
+              <div class="meta-title">Blog RoadMap</div>
+              <div class="meta-container"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="muti-btn">
+    <div class="blog-btn btn"></div>
+    <div class="note-btn btn"></div>
+    <div class="edit-btn btn"></div>
+    <div class="user-btn btn"></div>
+  </div>
+  <div class="footer">
+    Website design by <span>Centerful.</span>
+  </div>
+  <script type="text/javascript" src="./blog-assets/waves.js/waves.js"></script>
+  <script>
+    // Waves.attach('.avatar-wapper-img', ['waves-circle']);
+    Waves.attach('.post-meta-img');
+
+    Waves.init();
+  </script>
+</body>
+</html>

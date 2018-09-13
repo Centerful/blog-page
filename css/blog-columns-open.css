@@ -1,0 +1,74 @@
+.columns-form-wapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.columns-img-pick {
+  max-width: 500px;
+  max-height: 309px;
+  margin-bottom: 30px;
+}
+.columns-img-wapper {
+  width: 500px;
+  height: 309px;
+  background-color: #E0E0E0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  border-radius: 2px;
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.columns-img {
+
+}
+.columns-img-btn {
+  position: absolute;
+  bottom: 10px;
+  color: #a2a2a2;
+}
+.columns-form {
+  
+}
+.form-columns {
+  display: flex;
+  align-items: baseline;
+  margin: 40px 5px;
+}
+.form-label {
+  font-weight: bold;
+  color: #222;
+  width: 100px;
+  text-align: right;
+  margin-right: 50px;
+}
+.form-columns-type {
+
+}
+.columns-type-slip {
+
+}
+.columns-summary-input {
+  width: 340px;
+}
+.columns-domain-input {
+
+}
+.columns-domain-input span {
+  font-size: 0.95em;
+  color: #171717;
+  vertical-align: middle;
+}
+.form-columns-bar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+  margin: 80px 5px 40px 0;
+}
+.columns-bar-submit {
+
+}
+.columns-bar-back {
+  margin-right: 20px;
+}

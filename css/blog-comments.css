@@ -1,0 +1,136 @@
+.blog-overlay {
+  position: fixed;
+  top: -1000px;
+  right: -1000px;
+  bottom: -1000px;
+  left: -1000px;
+  background: rgba(0,0,0,.4);
+  z-index: 1000;
+  /*opacity: 0;*/
+  display: none;
+}
+.overlay-show {
+  display: block;
+  /*这里需要将body设置为overflow: hidden;用于禁止滚动*/
+}
+
+.comments-backdrop {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1100;
+}
+.comments {
+  max-width: 610px;
+  max-height: 540px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: 0 11px 15px -7px rgba(0,0,0,.2), 0 24px 38px 3px rgba(0,0,0,.14), 0 9px 46px 8px rgba(0,0,0,.12);
+  z-index: 1100;
+}
+.comments-header {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e8e8e8;
+}
+.comments-header-title {
+  float: left;
+  font-weight: 600;
+}
+.comments-header-order {
+  float: right;
+  margin: 0 10px;
+
+  color: #888888;
+  cursor: pointer;
+}
+.comments-header-close {
+  float: right;
+  cursor: pointer;
+}
+.comments-container {
+  max-height: 470px;
+  min-height: 230px;
+  overflow: auto;
+}
+.comments-items {
+  display: flex;
+  flex-direction: column;
+}
+.comments-item {
+  display: flex;
+}
+.comments-left-side {
+
+}
+.commenter-avatar {
+  margin: 14px 10px 0 0;
+}
+.comments-right-side {
+  margin: 0 5px;
+  width: 100%;
+}
+.comments-item-meta {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+.commenter-name {
+  color: #1a1a1a;
+  font-weight: 550;
+  font-size: 0.95em;
+  cursor: pointer;
+}
+.comment-time {
+  font-size: 0.91em;
+  color: #8e8e8e;
+  cursor: default;
+}
+.comments-item-content {
+  font-size: 0.965em;
+}
+.comments-item-footer {
+  display: flex;
+  flex-direction: column;
+}
+.comments-footer-bar {
+  margin-top: 10px;
+  display: flex;
+}
+.comments-up-icon {
+  margin-right: 5px;
+}
+.comments-look-icon {
+  margin-right: 5px; 
+}
+.comments-reply-icon {
+  margin-right: 5px;
+}
+.comments-reply {
+
+}
+.comments-reply-input {
+
+}
+.comments-reply-cancel {
+
+}
+.comments-reply-comment {
+
+}
+.comments-footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.comments-input {
+
+}
+.comments-btn {
+
+}

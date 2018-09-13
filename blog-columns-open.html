@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>专栏开通</title>
+<!-- <link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.min.css">
+<script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/js/mdui.min.js"></script> -->
+<link rel="stylesheet" href="./css/flex.css">
+<link rel="stylesheet" href="./css/tags-init.css">
+<link rel="stylesheet" href="./css/blog-home.css">
+<link rel="stylesheet" href="./css/blog-columns.css">
+<link rel="stylesheet" href="./css/blog-columns-content.css">
+<link rel="stylesheet" href="./css/blog-columns-open.css">
+
+<link rel="stylesheet" href="./blog-assets/waves.js/waves.css">
+
+</head>
+<body class="flex-mid flex-small">
+  <!-- 
+    左边是centerful的logo，右边是通知与用户信息 
+    当滚动条在顶部时使用轻UI设计，当滚动条滚动100px左右后浮现出toolbar——浮现与沉入是一个动画组。
+  -->
+  <!-- <div class="toolbar"></div> -->
+
+  <div class="content">
+    <div class="layout">
+      <div class="layout-head">
+        <div class="head-wapper">
+          <div class="head-inner">
+          </div>
+        </div>
+      </div>
+      <div class="layout-body">
+        <div class="columns-wapper">
+          <div class="blog-placeholder"></div>
+          <div class="columns-form-wapper">
+            <div class="columns-img-pick">
+              <div class="columns-img-wapper">
+                <!-- 黄金比例,或白金比例 -->
+                <img src="" alt="" class="columns-img">
+                <div class="columns-img-btn">图片选择</div>
+              </div>
+            </div>
+            <!-- 表单是 Material Design风格-->
+            <form class="columns-form" action="">
+              <div class="form-columns">
+                <span class="form-label">专栏名</span>
+                <input type="text" class="columns-name-input">
+              </div>
+              <div class="form-columns">
+                <span class="form-label">专栏类别</span>
+                <div class="columns-type-slip">哈利波特 +</div>
+              </div>
+              <div class="form-columns">
+                <span class="form-label">专栏介绍</span>
+                <textarea class="columns-summary-input" name="" id=""></textarea>
+              </div>
+              <div class="form-columns">
+                <span class="form-label">专栏域名</span>
+                <div class="columns-domain-input">
+                  <span>zhuanlan.centerful.org/</span>
+                  <input type="text" class="">
+                </div>
+                
+              </div>
+              <div class="form-columns-bar">
+                <button class="columns-bar-back">返回</button>
+                <button class="columns-bar-submit">申请开通</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="muti-btn">
+    <div class="blog-btn btn"></div>
+    <div class="note-btn btn"></div>
+    <div class="edit-btn btn"></div>
+    <div class="user-btn btn"></div>
+  </div>
+  <div class="footer">
+    Website design by <span>Centerful.</span>
+  </div>
+  <script type="text/javascript" src="./blog-assets/waves.js/waves.js"></script>
+  <script>
+    // Waves.attach('.avatar-wapper-img', ['waves-circle']);
+    Waves.attach('.post-meta-img');
+
+    Waves.init();
+  </script>
+</body>
+</html>
