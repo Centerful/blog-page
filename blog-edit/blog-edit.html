@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>编辑文章</title>
+<!-- <link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.min.css">
+<script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/js/mdui.min.js"></script> -->
+<link rel="stylesheet" href="./../css/flex.css">
+<link rel="stylesheet" href="./../css/tags-init.css">
+<link rel="stylesheet" href="./../css/blog-home.css">
+<link rel="stylesheet" href="./blog-edit.css">
+
+<link rel="stylesheet" href="./../blog-assets/waves.js/waves.css">
+
+</head>
+<body class="flex-mid flex-small">
+  <div class="content">
+    <div class="layout">
+      <!-- <div class="layout-head">
+        <div class="head-wapper">
+          <div class="head-inner">
+          </div>
+        </div>
+      </div> -->
+      <div class="layout-body">
+         <div class="edit-wapper">
+          <div class="edit-picture"></div>
+          <input class="edit-title" type="text" placeholder="请输入标题(最多30个字)">
+          <div class="edit-content">
+            <div id="test-editormd">
+              <textarea style="display:none;"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="./../blog-assets/waves.js/waves.js"></script>
+  <script>
+    // Waves.attach('.avatar-wapper-img', ['waves-circle']);
+    // Waves.attach('.post-meta-img');
+
+    Waves.init();
+  </script>
+</body>
+</html>
