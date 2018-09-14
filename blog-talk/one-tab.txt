@@ -1,0 +1,602 @@
+https://benweet.github.io/stackedit.js/ | Introduction | stackedit.js
+https://pandao.github.io/editor.md/ | Editor.md - 开源在线 Markdown 编辑器
+https://github.com/lzxb/vue2-demo/tree/master/docs | vue2-demo/docs at master · lzxb/vue2-demo
+http://hanekaoru.com/blog/ | Blog | hanekaoru's Blog
+https://blog.csdn.net/quuqu/article/details/64121812 | npm太慢， 淘宝npm镜像使用方法 - CSDN博客
+https://www.zhihu.com/question/37984203 | vue.js实例项目有木有？ - 知乎
+https://www.cnblogs.com/cnjava/archive/2013/07/30/3225174.html | Emmet缩写语法 - ×jokey - 博客园
+http://element-cn.eleme.io/#/zh-CN/component/button | 组件 | Element
+https://vuex.vuejs.org/ | Vuex | 什么是Vuex？
+https://www.bootcdn.cn/vue/ | vue | BootCDN - Bootstrap 中文网开源项目免费 CDN 加速服务
+https://juejin.im/entry/577ce6b88ac2470061c2fcce | Vue 的事件系统 - 前端 - 掘金
+https://developer.mozilla.org/zh-CN/docs/Web/Events | 事件类型一览表 | MDN
+https://www.w3cplus.com/vue/accessing-dom-refs.html | Vue 2.0学习笔记：使用$refs访问Vue中的DOM_Vue, Vue 2.0学习笔记 教程_w3cplus
+https://www.cnblogs.com/vajoy/p/4650467.html | 一小时包教会 —— webpack 入门指南 - vajoy - 博客园
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Functions/Arrow_functions | 箭头函数 - JavaScript | MDN
+https://segmentfault.com/a/1190000013277075 | vue.js 中 data, prop, computed, method，watch 介绍 - 前端学习那些事儿呗 - SegmentFault 思否
+https://www.w3cplus.com/tools/emmet-cheat-sheet.html | 前端开发必备！Emmet使用手册_Emmet 教程_w3cplus
+https://segmentfault.com/a/1190000007468604#articleHeader0 | (1) 在Vue工作流中使用CSS Modules - Frontend Rocks - SegmentFault 思否
+https://webpack.docschina.org/guides/development-vagrant/#%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE | 开发 - Vagrant
+https://mp.weixin.qq.com/s?__biz=MzU2NDMyNDE0Mg==&mid=2247484589&idx=1&sn=e7d03780ec2a7c9aa855e6229e802c12 | IT实战联盟
+
+https://blog.csdn.net/zhangskd/article/details/50208527 | Nginx的负载均衡 - 保持会话 (ip_hash) - CSDN博客
+https://www.jianshu.com/p/5401e1c3ee2e | nginx的几(4)种负载算法模式 - 简书
+https://blog.whsir.com/post-1482.html | Nginx几种负载均衡算法及配置实例 - 吴昊博客
+https://www.jianshu.com/p/129fe671deed | Nginx几种负载均衡算法及配置实例 - 简书
+https://www.cnblogs.com/xrq730/p/5154340.html | 几种简单的负载均衡算法及其Java代码实现 - 五月的仓颉 - 博客园
+https://segmentfault.com/a/1190000004492447 | (1) 负载均衡算法及手段 - code-craft - SegmentFault 思否
+https://www.jianshu.com/p/40e196414cfa | 常见的一些负载均衡算法总结 - 简书
+
+https://www.google.com/search?ei=yb6YW7_QO4bu-QacopOgAQ&q=%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99&oq=%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99&gs_l=psy-ab.3...474472.476326.0.476360.16.12.0.0.0.0.208.1051.6j3j1.10.0....0...1.1j4.64.psy-ab..7.4.437...0j35i39k1j0i67k1j0i131i67k1j0i3k1.0.Izoa9mX7i7w | 插画网站 - Google 搜索
+https://www.zhihu.com/question/21428094 | (99+ 封私信 / 89 条消息)国内有哪些插画师集中的网站？ - 知乎
+https://www.deviantart.com/jkimbo/art/Writing-52793304 | Writing by Jkimbo on DeviantArt
+https://www.douban.com/note/209889394/ | 【转】搜图不求人——大图、全图、原图、P号 自助搜索指南
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=P%E7%AB%99%E4%B8%8D%E9%94%99%E7%9A%84%E7%94%BB&rsv_pq=dde123b300037451&rsv_t=0e9drXBY5EbAqVElHh9Zj9%2BgLlqPgnDgA8RyA6wcLyi%2FFWjL2BRoJfjPsN4&rqlang=cn&rsv_enter=1&rsv_sug3=19&rsv_sug1=8&rsv_sug7=100&rsv_sug2=0&inputT=3728&rsv_sug4=3729 | P站不错的画_百度搜索
+
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3%E6%A8%A1%E6%9D%BF&oq=%25E4%25BA%25A4%25E4%25BA%2592%25E8%25AE%25BE%25E8%25AE%25A1%25E6%2596%2587%25E6%25A1%25A3&rsv_pq=868c878e000469f3&rsv_t=5c28t8RfHgyO3DJehKT1a3eJKu2hAmqRxfxT79JuyFhklX8RIcUXnKoePVo&rqlang=cn&rsv_enter=1&rsv_sug3=22&rsv_sug1=13&rsv_sug7=100&rsv_sug2=1&prefixsug=%25E4%25BA%25A4%25E4%25BA%2592%25E8%25AE%25BE%25E8%25AE%25A1%25E6%2596%2587%25E6%25A1%25A3&rsp=0&rsv_sug4=747 | 交互设计文档模板_百度搜索
+https://www.uisdc.com/professional-interaction-design-document | 专业干货！如何写一份全面易读的交互说明文档？ - 优设-UISDC
+https://www.uisdc.com/tag/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3 | 交互设计文档 - 优设-UISDC
+https://www.uisdc.com/export-professional-interactive-documents | 如何输出一份专业优秀的交互文档？ - 优设-UISDC
+https://www.jianshu.com/p/35961725bcb1 | 交互设计文档模板项目总结 - 简书
+
+http://www.flysnow.org/2018/05/14/go-prospect-analysis.html | Go语言的前景分析 | 飞雪无情的博客
+http://www.flysnow.org/2016/12/27/golang-hot-project-in-github.html | GitHub上优秀的Go开源项目 | 飞雪无情的博客
+https://www.jianshu.com/p/00d22807610d | 我为什么选择Go语言（Golang） - 简书
+https://studygolang.com/topics/4626 | 美餐web全栈开发（golang方向）15-30k - Go语言中文网 - Golang中文社区
+http://www.infoq.com/cn/articles/go-2017-summary | Go语言的2017年终总结
+https://blog.csdn.net/john_f_lau/article/details/78499975 | Go语言发展浅谈 - CSDN博客
+https://blog.qiniu.com/archives/4499 | 七牛CEO许式伟分析Go语言发展现状 - 七牛云
+
+https://pandao.github.io/editor.md/examples/custom-toolbar.html | 自定义工具栏 - Editor.md examples
+https://pandao.github.io/editor.md/examples/full.html | Full example - Editor.md examples
+file:///E:/Blog/Markdown%20Editor/editor.html#Editor.md | Markdown编辑器
+file:///E:/Front-End%20Project/open%20source/editor.md-master/examples/simple.html | Simple example - Editor.md examples
+https://zhuanlan.zhihu.com/ | 知乎专栏 - 随心写作，自由表达
+https://zhuanlan.zhihu.com/p/44237560/edit | 写文章
+https://mp.csdn.net/mdeditor | 写文章-CSDN博客
+https://www.jianshu.com/writer#/notebooks/10952131/notes/33574139/preview | 简书 - 写文章
+
+https://pandao.github.io/editor.md/examples/custom-toolbar.html | 自定义工具栏 - Editor.md examples
+https://pandao.github.io/editor.md/examples/full.html | Full example - Editor.md examples
+file:///E:/Blog/Markdown%20Editor/editor.html#Editor.md%20directory | Markdown编辑器
+file:///E:/Front-End%20Project/open%20source/editor.md-master/examples/simple.html | Simple example - Editor.md examples
+file:///E:/Front-End%20Project/open%20source/editor.md-master/examples/simple.html | Simple example - Editor.md examples
+
+http://www.bkzzy.com/baokao/21119.shtml | 什么是同等学力? - 中国在职研究生网
+https://www.baidu.com/s?wd=%E5%90%8C%E7%AD%89%E5%AD%A6%E5%8A%9B&tn=SE_PcZhidaonwhc_ngpagmjz&rsv_dl=gh_pc_zhidao | 同等学力_百度搜索
+https://zhidao.baidu.com/question/218075755.html | 大专毕业后可以考研究生吗？？_百度知道
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E4%B8%93%E7%A7%91%E6%AF%95%E4%B8%9A%E5%90%8E%E8%83%BD%E8%80%83%E7%A0%94%E7%A9%B6%E7%94%9F%E5%90%97&oq=%25E4%25B8%2593%25E7%25A7%2591%25E8%2583%25BD%25E8%2580%2583%25E7%25A0%2594%25E7%25A9%25B6%25E7%2594%259F%25E5%2590%2597&rsv_pq=bb2631d6000110bd&rsv_t=448eNrSW7wcxA5qE35MS7ujrspM4gF21ny%2BxG%2FaG3JDOcF9k0l4F17V168E&rqlang=cn&rsv_enter=1&inputT=1684&rsv_sug3=35&rsv_sug1=7&rsv_sug7=100&rsv_sug2=0&rsv_sug4=1684 | 专科毕业后能考研究生吗_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E4%B8%93%E7%A7%91%E6%AF%95%E4%B8%9A%E5%90%8E%E6%80%8E%E4%B9%88%E5%8D%87%E6%9C%AC%E7%A7%91&oq=%25E5%25AD%25A6%25E4%25BF%25A1%25E7%25BD%2591%25E5%25AD%25A6%25E5%258E%2586%25E6%259F%25A5%25E8%25AF%25A2&rsv_pq=c07807080000e278&rsv_t=7727XXBucbDA9Cw8IeZMc0w8pBHEdBLmUu7kO9FtND%2F5rK1s4xlBZlLg5XI&rqlang=cn&rsv_enter=1&inputT=5783&rsv_sug3=40&rsv_sug1=25&rsv_sug7=100&rsv_sug2=0&prefixsug=%25E4%25B8%2593%25E7%25A7%2591%25E6%25AF%2595%25E4%25B8%259A%25E5%2590%258E&rsp=0&rsv_sug4=6611 | 专科毕业后怎么升本科_百度搜索
+https://zhidao.baidu.com/question/1733268861243875387.html | 毕业后大专升本科的途径_百度知道
+https://www.baidu.com/s?wd=%E8%87%AA%E8%80%83%E4%B8%93%E5%8D%87%E6%9C%AC&tn=SE_PcZhidaonwhc_ngpagmjz&rsv_dl=gh_pc_zhidao | 自考专升本_百度搜索
+https://baijiahao.baidu.com/s?id=1608284319291985172&wfr=spider&for=pc | 自考专升本会后悔一生？为什么会有这种现象出现？
+https://baike.baidu.com/item/%E8%87%AA%E8%80%83%E4%B8%93%E5%8D%87%E6%9C%AC/9655174?fr=aladdin | 自考专升本_百度百科
+https://baike.baidu.com/item/%E5%AD%A6%E5%A3%AB%E5%AD%A6%E4%BD%8D | 学士学位_百度百科
+http://www.daofeng.org.cn/gdzk/index.html | 自考|成考|远程网络教育|成人专升本|提升学历
+https://my.chsi.com.cn/archive/bab/xl/show.action?trnd=1536396125937 | 学信档案
+
+http://www.ui.cn/ | UI中国-专业用户体验设计平台
+http://www.ui.cn/ | UI中国-专业用户体验设计平台
+http://www.iconfans.org/ | UI中国
+https://www.zhihu.com/question/19632279 | (4 条消息)有哪些比较好的视觉设计教程分享一下呢？ - 知乎
+https://www.google.com/search?source=hp&ei=kQmSW5XoIdDR-QaA44KgAQ&q=%E7%BD%91%E9%A1%B5%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B&oq=%E7%BD%91%E9%A1%B5%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B&gs_l=psy-ab.3...1264.1264.0.2091.2.1.0.0.0.0.587.587.5-1.1.0....0...1.1.64.psy-ab..1.0.0.0...0.8XPNhjjJTAc | 网页视觉设计教程 - Google 搜索
+http://www.jq22.com/jquery%E8%BE%93%E5%85%A5-1-jq | jQuery输入插件
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E7%BD%91%E9%A1%B5%E8%A7%86%E8%A7%89%E8%A7%84%E8%8C%83&oq=mockplus&rsv_pq=e3998b0c000052cb&rsv_t=17159wjgDk79beeSv%2BwqkTgCCQDc4ebdr1NXD8UsfBE0WXhOVmK1KmFNpTo&rqlang=cn&rsv_enter=1&inputT=2792510&rsv_sug3=134&rsv_sug1=140&rsv_sug7=100&rsv_sug2=0&prefixsug=%25E7%25BD%2591%25E9%25A1%25B5%25E8%25A7%2586%25E8%25A7%2589&rsp=1&rsv_sug4=2793624 | 网页视觉规范_百度搜索
+http://www.ui.cn/detail/111987.html | WEB网站视觉设计规范-UI中国-专业用户体验设计平台
+http://www.ui.cn/detail/297606.html | 给你正确的网站视觉设计规范，不要再犯低级错误了哦！-UI中国-专业用户体验设计平台
+https://www.douban.com/note/562028111/?type=like | WEB端设计规范
+https://modao.cc/tutorials/%E5%BF%AB%E9%80%9F%E5%88%9B%E5%BB%BA%E5%BA%94%E7%94%A8 | 墨刀 - Tutorials
+
+https://blog.csdn.net/wz_cow/article/details/80978785 | 端口详解 - CSDN博客
+https://blog.csdn.net/ch1406285246/article/details/55504330 | 网络七层协议、TCP/IP、UDP、HTTP、Socket 个人理解 - CSDN博客
+https://www.cnblogs.com/wxgblogs/p/5641643.html | 七层协议和四层协议 - 简单爱_wxg - 博客园
+http://img.my.csdn.net/uploads/201201/5/0_1325744597WM32.gif | 0_1325744597WM32.gif (1120×1587)
+https://www.cnblogs.com/wangcq/p/3520400.html | Socket通信原理 - wcq - 博客园
+https://www.cnblogs.com/wangcq/p/3688108.html | 佩服的技术大牛 “赵劼” - wcq - 博客园
+https://www.cnblogs.com/kakawater/p/7085122.html | Socket实现 - kakawater - 博客园
+
+https://www.baidu.com/s?wd=p2p%E5%92%8C%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9A%84%E5%85%B3%E7%B3%BB&rsf=2&rsp=0&f=1&oq=p2p%20%E5%8C%BA%E5%9D%97%E9%93%BE&ie=utf-8&usm=1&rsv_idx=1&rsv_pq=c58f020e00047621&rsv_t=f361gqsEx4ehCHihs5hdqacDrJCjZ9OyeaQlbHRAwQstFyE8sJgNtHp2ejs&rqlang=cn&rs_src=0 | p2p和区块链的关系_百度搜索
+https://baijiahao.baidu.com/s?id=1597261670055151906&wfr=spider&for=pc | 为什么现在的P2P都想去做区块链了？
+https://www.huxiu.com/article/229815.html?f=member_article | 2018年的现金贷、P2P、区块链会怎么样？-虎嗅网
+https://baike.baidu.com/item/%E5%A4%B1%E6%8E%A7/5901911 | 失控（图书《失控：全人类的最终命运和结局》）_百度百科
+https://www.v2ex.com/t/384073 | 所谓的区块链可以说就是 P2P 链接吗？ - V2EX
+https://www.zhihu.com/question/37290469/answer/167477833 | 区块链是什么，如何简单易懂地介绍区块链？ - 知乎
+https://baijiahao.baidu.com/s?id=1593720141367385754&wfr=spider&for=pc | 搞明白P2P才能理解区块链
+https://www.33.cn/ | 复杂美区块链
+https://www.google.com/search?ei=vHWPW43cJ8HO8wXfxabACA&q=%E5%8C%BA%E5%9D%97%E9%93%BE%E8%83%BD%E5%B9%B2%E5%98%9B&oq=%E5%8C%BA%E5%9D%97%E9%93%BE%E8%83%BD%E5%B9%B2%E5%98%9B&gs_l=psy-ab.3...305146.314613.0.314711.31.23.5.0.0.0.517.2721.0j6j2j1j1j1.12.0....0...1.1j4.64.psy-ab..16.14.2125.6..0j35i39k1j0i67k1j0i131k1.212.TXO98iMqUZs | 区块链能干嘛 - Google 搜索
+https://www.zhihu.com/question/27687960 | (1 条消息)区块链技术是什么？未来可能用于哪些方面？ - 知乎
+file:///C:/Users/issuser/Downloads/BITNATION%20Pangea%20Whitepaper%202017%20-%20ZH.pdf | BITNATION Pangea Whitepaper 2017 - ZH.pdf
+https://www.google.com.hk/search?q=P2P&oq=P2P&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | P2P - Google 搜索
+https://yq.aliyun.com/articles/60232?utm_content=m_41924 | 【区块链之技术进阶】扒一扒某乎上面对于区块链的理解（一）-博客-云栖社区-阿里云
+https://zh.wikipedia.org/wiki/%E5%8C%BA%E5%9D%97%E9%93%BE | 区块链 - 维基百科，自由的百科全书
+
+https://blog.csdn.net/zyh19790803/article/details/71196981 | Kafka 日志复制协议探索 - CSDN博客
+https://blog.csdn.net/Kim_Weir/article/details/79934095 | zookeeper+kafka详解 - CSDN博客
+https://blog.csdn.net/jewes/article/details/42744855 | Kafka的通讯协议 - CSDN博客
+
+https://www.jianshu.com/p/2d49fcf63279 | 一个资深UI设计师必看的十本书 - 简书
+https://www.jianshu.com/c/647b0c188943?utm_source=desktop&utm_medium=notes-included-collection | UI交互设计 - 专题 - 简书
+https://www.zhihu.com/question/36601054 | (4 条消息)自学UI设计有哪些资料和书籍推荐？ - 知乎
+http://www.ui.cn/detail/267084.html | 《入门必看》UI设计入门教程大全-UI中国-专业用户体验设计平台
+http://www.ui.cn/detail/394607.html | 子弹短信APP用户体验及界面设计浅析-UI中国-专业用户体验设计平台
+http://www.ui.cn/exp.html?tag=1&b=0&scatid=0&catid=0 | 推荐UI经验/文章/教程分享-UI中国-专业界面交互设计平台
+http://topic.ui.cn/detail?tid=39 | UI文章专题-UI中国-专业界面交互设计平台
+http://www.ui.cn/detail/336889.html | 如何系统地设计界面图标-UI中国-专业用户体验设计平台
+http://www.ui.cn/detail/307330.html | 三要素教你设计流行 大白风格UI-UI中国-专业用户体验设计平台
+http://topic.ui.cn/detail?tid=26 | UI文章专题-UI中国-专业界面交互设计平台
+
+https://www.zhihu.com/question/54321273 | 有哪些精品的eva壁纸？ - 知乎
+https://www.google.com/search?source=hp&ei=7sCHW5P9HI-dhwOxyoKAAg&q=%E8%BF%9B%E7%A8%8B+%E4%B8%80%E5%AE%9A%E6%9C%89%E7%AB%AF%E5%8F%A3%E5%8F%B7%E5%90%97&oq=%E8%BF%9B%E7%A8%8B+%E4%B8%80%E5%AE%9A%E6%9C%89%E7%AB%AF%E5%8F%A3%E5%8F%B7%E5%90%97&gs_l=psy-ab.3...781.57867.0.58019.72.53.3.0.0.0.604.6833.0j14j7j4j2j1.29.0....0...1.1j4.64.psy-ab..45.13.2463.6..0j0i30k1j0i5i30k1j35i39k1j0i131k1j0i12k1.175.6-ydX-wakk8 | 进程 一定有端口号吗 - Google 搜索
+http://meiui.midea.com/mei-ui-1.1.1/api/api.html | MEIUI-API
+https://www.google.com/search?source=hp&ei=-eGIW6TdK9nN-Qbs0K2ICw&q=css+%E9%99%90%E5%88%B6%E7%AA%97%E5%8F%A3%E6%9C%80%E5%B0%8F%E5%AE%BD%E5%BA%A6&oq=css+%E9%99%90%E5%88%B6%E7%AA%97%E5%8F%A3%E6%9C%80%E5%B0%8F%E5%AE%BD%E5%BA%A6&gs_l=psy-ab.3...1708.13387.0.13586.45.42.0.0.0.0.181.4307.6j28.34.0....0...1.1j4.64.psy-ab..12.15.1963.0..0j35i39k1j0i131k1j0i12k1j33i160k1.0.MQK9G2QFWrU | css 限制窗口最小宽度 - Google 搜索
+https://zhidao.baidu.com/question/1109963499370834419.html | html怎么限制浏览器的最小宽度_百度知道
+https://blog.csdn.net/OrangeJuiceMe/article/details/50836830 | css限制显示字数，文字长度超出部分用省略号表示 - CSDN博客
+
+https://blog.justwd.net/2011/06/transparent-css-gradient/ | 半透明 CSS 渐变 - 九十度
+http://blog.jobbole.com/46574/ | 如何只用CSS做到完全居中 - 文章 - 伯乐在线
+https://github.com/Tencent/tmt-workflow/wiki/%E2%92%9B-%5B%E8%A7%84%E8%8C%83%5D--CSS-BEM-%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83 | ⒛ [规范] CSS BEM 书写规范 · Tencent/tmt-workflow Wiki
+https://draveness.me/mvx | 浅谈 MVC、MVP 和 MVVM 架构模式
+http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html | MVC，MVP 和 MVVM 的图示 - 阮一峰的网络日志
+https://www.google.com/search?source=hp&ei=q_dzW_qjKYvc8wWY8bXQBQ&q=history+of+mvc&oq=history+of+mvc&gs_l=psy-ab.3..0i203k1l3j0i30k1l4j0i8i30k1j0i10i30k1j0i5i30k1.1212.4914.0.5188.8.7.0.0.0.0.210.1345.0j6j1.7.0....0...1.1.64.psy-ab..1.7.1344.0..0j35i39k1j0i67k1j0i131k1.0.gQBkycraqeY | history of mvc - Google 搜索
+http://stephenwalther.com/archive/2008/08/24/the-evolution-of-mvc | MVC的演变| 斯蒂芬沃尔特
+
+https://vuetifyjs.com/zh-Hans/getting-started/quick-start | Quick Start — Vuetify.js
+https://www.mdui.org/docs/card | 卡片 - MDUI 开发文档, Material Design 前端框架
+https://www.jianshu.com/p/eb863de83226 | 如何用Vue+Vuetify快速建站？ - 简书
+https://www.google.com/search?source=hp&ei=Dh91W8jVD4mU8wWOt6P4Bw&q=vuetify%E6%95%99%E5%AD%A6&oq=Vuetify&gs_l=psy-ab.1.1.35i39k1j0j0i203k1j0j0i203k1l6.163570.163570.0.165066.4.2.0.0.0.0.177.177.0j1.1.0....0...1.1.64.psy-ab..3.1.176.0...0.ZxUn98i66k0 | vuetify教学 - Google 搜索
+https://www.qinshenxue.com/article/20161118151423.html | 从零搭建 vue2 vue-router2 webpack3 工程 - 前端路迹
+https://github.com/itemsets/vue2/issues/13 | Vue.js应用的四种AJAX请求数据模式 · Issue #13 · itemsets/vue2
+http://www.bootcss.com/p/lesscss/ | LESS « 一种动态样式语言
+https://zhuanlan.zhihu.com/p/30352291 | 聊聊Vue.js组件间通信的几种姿势
+
+https://www.zhihu.com/question/37458025 | webpack 只适合SPA吗？ - 知乎
+https://zhuanlan.zhihu.com/p/26645496 | webpack2.x开发实践
+https://juejin.im/post/5a3cadadf265da432b4b0250 | Webpack实战-管理多个单页应用 - 掘金
+https://www.jianshu.com/p/4e9a7b0bbb42 | 用vue构建多页面应用 - 简书
+https://github.com/simonswiss/Multi-page-Jade-Webpack | simonswiss / Multi-page-Jade-Webpack：使用Jade模板构建多页网站的起点。
+https://github.com/mutualofomaha/multipage-webpack-plugin | mutualofomaha/multipage-webpack-plugin: A plugin that makes handling templates and asset distribution for multi-page applications using webpack trivial
+https://segmentfault.com/q/1010000004975965 | (1) javascript - vuejs构建非单页应用 - SegmentFault 思否
+
+https://gillion.shufflehound.com/blog-style/masonry-card-style/ | Masonry Card Style – Gillion Multi-Concept Magazine, News, Review WordPress Theme
+https://jevelin.shufflehound.com/blog/blog-large-images/ | Blog Large Images – Jevelin WordPress Theme
+https://www.energeticthemes.com/templates/umda/blog-standard.html | Umda - 创新的多功能创意模板
+https://www.zhihu.com/people/skyyangyun/activities | (80 条消息)杨赟 - 知乎
+https://blog.csdn.net/jiangwei0910410003?t=1 | Android应用安全防护和逆向分析-----作者 - 第 1 页 - CSDN博客
+https://www.jianshu.com/u/c5580cc1c3f4?utm_source=desktop&utm_medium=index-users | 简书大学堂 - 简书
+
+https://zhuanlan.zhihu.com/p/37465053 | 2018年最值得关注的30个Vue开源项目
+https://github.com/vuetifyjs/vuetify?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more | vuetifyjs / vuetify：Vue.js的Material Component Framework 2
+https://www.zhihu.com/topic/20005114/top-answers | (80 条消息)质感设计（Material Design） - 知乎
+https://zhuanlan.zhihu.com/p/19935140 | 舞台上的戏法和天文里的科技：Material Design和iOS 7动效对比分析
+https://www.youtube.com/results?search_query=+Material+Design+animations+meaningful | Material Design animations meaningful - YouTube
+https://www.youtube.com/watch?v=hA0hrpR-o8U | Code beautiful UI with Flutter and Material Design (Google I/O '18) - YouTube
+https://design.google/resources/ | Resources - Google Design
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%BD%91%E9%A1%B5%E7%AB%AF%20material%20design&rsv_pq=ad37b4d000037833&rsv_t=4eddsKqIfHLuuUU4Z5WfQYhJTX%2Bo64%2B9FTDeX36JVEVt8B3xG427szcjjOM&rqlang=cn&rsv_enter=1&rsv_sug3=79&rsv_sug1=37&rsv_sug7=100&rsv_sug2=0&inputT=25669&rsv_sug4=25670 | 网页端 material design_百度搜索
+https://www.v2ex.com/t/143776 | Material Design 设计在 PC 版网页上的例子有哪些？ - V2EX
+https://www.behance.net/gallery/20988447/Google-material-exploration | Google material exploration on Behance
+http://design.1sters.com/ | Material Design - Material Design 中文版
+https://material.io/design/introduction/#principles | 介绍 - 材料设计
+
+http://dockone.io/article/1942 | Docker 网络构造：Docker如何使用Linux iptables和Interfaces - DockOne.io
+http://www.cnblogs.com/cielosun/p/6596475.html | Java枚举enum以及应用：枚举实现单例模式 - CieloSun - 博客园
+http://www.cnblogs.com/jingmoxukong/p/5945200.html | nginx简易教程 - 静默虚空 - 博客园
+https://www.jianshu.com/p/c690e791c408 | tomcat sessionid生成导致启动缓慢 - 简书
+https://github.com/xwjie/PLMCodeTemplate | xwjie/PLMCodeTemplate: 给部门制定的代码框架模板
+https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard | Filesystem Hierarchy Standard - Wikipedia
+https://yeasy.gitbooks.io/docker_practice/network/port_mapping.html
+https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#add-or-copy
+https://my.oschina.net/u/2306127/blog/653104 | Docker指令手册 - openthings的个人空间 - 开源中国
+https://www.google.com/search?ei=myFlW9WPC8KdhwOPoJ_oCA&q=pipeline+meaning&oq=pipeline+me&gs_l=psy-ab.3.0.0i203k1l10.4050.4385.0.6084.3.3.0.0.0.0.93.246.3.3.0....0...1.1.64.psy-ab..0.3.246...0j0i12k1j0i10i203k1.0.vN6OIIRShEI | pipeline meaning - Google 搜索
+
+https://www.jianshu.com/p/7b11cf09e674 | 最适合初学者的Java练手项目！ - 简书
+http://blog.jobbole.com/49762/ | 有了这个列表，程序员不愁没练手的小项目了 - 文章 - 伯乐在线
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E7%BB%83%E6%89%8B%E7%9A%84%E9%A1%B9%E7%9B%AE&oq=%25E7%25BB%2583%25E6%2589%258B%25E7%259A%2584%25E7%25BE%25A1%25E6%2585%2595&rsv_pq=b8277c5a00025280&rsv_t=58a2PO2H%2Fu%2BVfhosVxh87TEf0JxUWfiSX2zpMPLvhtBLqypplmH0f%2BGL7r4&rqlang=cn&rsv_enter=1&inputT=1998&rsv_sug3=51&rsv_sug1=49&rsv_sug7=100&rsv_sug2=0&rsv_sug4=2465 | 练手的项目_百度搜索
+https://blog.csdn.net/ax8785r8C32nef593/article/details/78643866 | Springboot+Vue 的前后端分离与合并方案 - CSDN博客
+http://www.blogways.net/blog/2013/06/02/jedis-demo.html | Redis的Java客户端Jedis的八种调用方式(事务、管道、分布式…)介绍_博汇网_www.blogways.net
+https://www.google.com/search?ei=SKphW6eLH5L4hwOBxr_QDw&q=%E5%89%8D%E5%90%8E%E7%AB%AF%E9%A1%B9%E7%9B%AE%E6%80%8E%E4%B9%88%E5%90%88%E5%B9%B6%E7%9A%84%3F&oq=%E5%89%8D%E5%90%8E%E7%AB%AF%E9%A1%B9%E7%9B%AE%E6%80%8E%E4%B9%88%E5%90%88%E5%B9%B6%E7%9A%84%3F&gs_l=psy-ab.3...48844.56067.0.56317.44.26.3.0.0.0.377.2429.1j6j3j2.13.0....0...1.1j4.64.psy-ab..30.5.543.6..0j35i39k1j0i131k1.115.Za0UBlkYrUQ | 前后端项目怎么合并的? - Google 搜索
+http://www.runoob.com/redis/redis-transactions.html | Redis 事务 | 菜鸟教程
+http://www.infoq.com/cn/articles/distributed-queue-programme-model-actual-combat-optimization | 分布式队列编程：从模型、实战到优化
+https://segmentfault.com/q/1010000003064904 | webservice - 什么是 RESTful ？到底 REST 和 SOAP、RPC 有何区别？ - SegmentFault 思否
+https://www.zhihu.com/question/28570307 | WEB开发中，使用JSON-RPC好，还是RESTful API好？ - 知乎
+https://github.com/JaceyRx/firewallTutor | JaceyRx/firewallTutor: 自建梯子教程, 翻墙教程, 科学上网, google https://github.com/JaceyRx/firewallTutor
+https://www.google.com/search?ei=zW1iW4u6Ooqi8QWtuZDgDg&q=restful+rpc+difference&oq=restful+rpc+difference&gs_l=psy-ab.3...0.0.0.5987.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.KrRpbFuTbU0 | restful rpc difference - Google 搜索
+http://www.blogjava.net/BlueDavy/archive/2008/01/24/177533.html | 分析分布式服务框架 - BlueDavy之技术Blog - BlogJava
+http://www.blogjava.net/BlueDavy/archive/2008/01/14/175054.html | 基于OSGi实现分布式服务框架历程(一) - BlueDavy之技术Blog - BlogJava
+http://redisdoc.com/key/expire.html | EXPIRE — Redis 命令参考
+
+https://blog.csdn.net/zimenglan_sysu/article/details/42935233 | 文档数据库的学习报告 - CSDN博客
+https://www.markdowntutorial.com/lesson/3/
+http://www.sohu.com/a/152030438_151779 | 深度剖析：支付宝和银行的本质差异决定了OceanBase不适用于银行_搜狐财经_搜狐网
+https://github.com/Tencent/phxpaxos/blob/master/README.zh_CN.md | phxpaxos/README.zh_CN.md at master · Tencent/phxpaxos
+https://www.zhihu.com/question/52337912/answer/131507725 | (80 条消息)OceanBase的一致性协议为什么选择 paxos而不是raft? - 知乎
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=java%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%BB%8E%E5%93%AA%E5%87%A0%E6%96%B9%E9%9D%A2%E5%85%A5%E6%89%8B&oq=%25E6%2580%25A7%25E8%2583%25BD%25E4%25BC%2598%25E5%258C%2596%25E4%25BB%258E%25E5%2593%25AA%25E5%2587%25A0%25E6%2596%25B9%25E9%259D%25A2%25E5%2585%25A5%25E6%2589%258B&rsv_pq=ae09ab7100003bae&rsv_t=f400Le81WxioCujAhfEcpUZPBiqsWe5gRogKdfET7f8YVvSy5TWKR1ewa3k&rqlang=cn&rsv_enter=1&inputT=2103&rsv_sug3=24&rsv_sug2=0&prefixsug=java%2520%25E6%2580%25A7%25E8%2583%25BD%25E4%25BC%2598%25E5%258C%2596%25E4%25BB%258E%25E5%2593%25AA%25E5%2587%25A0%25E6%2596%25B9%25E9%259D%25A2%25E5%2585%25A5%25E6%2589%258B&rsp=0&rsv_sug4=2922 | java 性能优化从哪几方面入手_百度搜索
+https://www.cnblogs.com/ningskyer/articles/7446161.html | 分布式事务一致性算法：Master-Slave/Master-Master/2PC/3PC/Paxos/zab/Raft/NWR【转】 - 小天儿 - 博客园
+https://yq.aliyun.com/articles/241361 | [leveldb] 与大神对话录——leveldb-博客-云栖社区-阿里云
+http://www.cnblogs.com/vajoy/p/5471308.html | 几款主流 NoSql 数据库的对比 - vajoy - 博客园
+https://blog.csdn.net/chenleixing/article/details/43192639 | NoSQL数据库的四大分类及分析 - CSDN博客
+https://www.zhihu.com/question/30219620 | mongodb,redis,hbase 三者都是nosql数据库，他们的最大区别和不同定位是什么？ - 知乎
+https://www.zhihu.com/question/19832447 | 现在主流开源分布式系统架构都有哪些？ - 知乎
+http://www.runoob.com/mongodb/mongodb-query.html | MongoDB 查询文档 | 菜鸟教程
+
+https://yeasy.gitbooks.io/docker_practice/kubernetes/ | Kubernetes 项目 · Docker —— 从入门到实践
+https://quizlet.com/blog/quizlet-cloud-spanner | Quizlet Tests Cloud Spanner — The Most Sophisticated Cloud Database | Quizlet
+http://www.ruanyifeng.com/blog/2017/08/elasticsearch.html | 全文搜索引擎 Elasticsearch 入门教程 - 阮一峰的网络日志
+https://book.douban.com/subject/25723658/ | 大规模分布式存储系统 (豆瓣)
+http://afghl.github.io/2016/07/04/consistent-hashing.html | 一致性哈希（Consistent Hashing）原理 - 有个博客
+https://blog.csdn.net/qiansg123/article/details/80123051 | 次时代Java编程（一）：Java里的协程 - CSDN博客
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%8D%8F%E7%A8%8B&oq=java%2520%25E5%258D%258F%25E7%25A8%258B&rsv_pq=df4e663a0001c2d4&rsv_t=e559dCZFSI17l53A5PXchO2NWRrBlTR7fdS5KdUgJwzuwBn28mmG2ai6W8s&rqlang=cn&rsv_enter=1&inputT=239&rsv_sug3=26&rsv_sug1=6&rsv_sug7=100&rsv_sug2=0&rsv_sug4=239 | 协程_百度搜索
+https://www.zhihu.com/question/21536660 | (80 条消息)块存储、文件存储、对象存储这三者的本质差别是什么？ - 知乎
+
+http://yangshangchuan.iteye.com/blog/2010574 | Amazon Dynamo的NWR模型 - 杨尚川的博客 - ITeye博客
+https://www.v2ex.com/t/425850 | 各位码友，学分布式系统设计，有什么书籍推荐吗？ - V2EX
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%20%E4%B9%A6%E7%B1%8D&oq=%25E5%2588%2586%25E5%25B8%2583%25E5%25BC%258F%25E7%25B3%25BB%25E7%25BB%259F%2520%25E5%25A6%2582%25E4%25BD%2595%25E5%25AD%25A6%25E4%25B9%25A0&rsv_pq=ab6d513f0003bb54&rsv_t=fc7ea07vwBOATGFdNhhqvnVd2gN3GAwD1DDuA6zACoIqFcBEaHi7sDrhBSU&rqlang=cn&rsv_enter=1&inputT=1807&rsv_sug3=39&rsv_sug1=15&rsv_sug7=100&rsv_sug2=0&rsv_sug4=2404 | 分布式系统 书籍_百度搜索
+https://github.com/feixiao/Distributed-Systems | feixiao/Distributed-Systems: MIT课程《Distributed Systems 》学习和翻译
+https://www.zhihu.com/question/43687427/answer/96306564 | 一名分布式存储工程师的技能树是怎样的？ - 知乎
+https://www.google.com.hk/search?q=%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1+%E4%B9%A6%E7%B1%8D&gws_rd=cr | 分布式系统设计 书籍 - Google 搜索
+http://ts25504.github.io/2016/08/16/MIT-6-824%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF/ | MIT-6.824学习之路 | B LOG
+https://blog.csdn.net/tg229dvt5i93mxaq5a6u/article/details/78266424 | 如何学习分布式系统？一文全Get！ - CSDN博客
+https://www.zhihu.com/question/23645117 | 学习分布式系统需要怎样的知识？ - 知乎
+https://www.zhihu.com/question/29597104 | 如何的才能更好的学习MIT6.824分布式系统课程？ - 知乎
+https://www.cnblogs.com/xybaby/p/7787034.html | 什么是分布式系统，如何学习分布式系统 - xybaby - 博客园
+https://docs.google.com/document/u/0/ | Google 文档
+
+https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/customize-css | 自定义 CSS - Markdown Preview Enhanced
+https://www.jianshu.com/p/ac2bc0ad3d74 | Linux环境变量总结 - 简书
+http://blog.bizcloudsoft.com/wp-content/uploads/Google-MapReduce%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf | Google MapReduce中文版
+http://blog.bizcloudsoft.com/wp-content/uploads/Google-Bigtable%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf | Google Bigtable中文版
+http://blog.bizcloudsoft.com/wp-content/uploads/Google-File-System%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf | Google File System中文版
+https://www.google.com/search?source=hp&ei=YiBgW5jqOJWB-QaY9LjoCA&q=HSF+dubbo&oq=HSF+dubbo&gs_l=psy-ab.3..0j0i8i30k1j0i5i30k1l2.608.2920.0.3266.10.9.0.0.0.0.295.1160.0j1j4.5.0....0...1.1j4.64.psy-ab..5.5.1159.0..35i39k1j0i131k1j0i203k1j0i30k1.0.iuDMBd1ymo0 | HSF dubbo - Google 搜索
+http://www.iteye.com/magazines/103 | 阿里巴巴分布式服务框架 Dubbo 团队成员梁飞专访 - 名家访谈 - ITeye精华
+https://bigdata-ny.github.io/2017/05/19/distribute-frame-hsf-not-dubbo/ | 分布式服务框架选型：面对Dubbo，阿里巴巴为什么选择了HSF？ | 神机喵算
+https://blog.csdn.net/qq_16681169/article/details/72512819 | HSF的原理分析 - CSDN博客
+
+http://www.cnblogs.com/baiboy/p/orc1.html | 【Oracle 集群】ORACLE DATABASE 11G RAC 知识图文详细教程之集群概念介绍（一） - 伏草惟存 - 博客园
+https://www.cnblogs.com/baiboy/p/orc2.html | Oracle 集群】ORACLE DATABASE 11G RAC 知识图文详细教程之ORACLE集群概念和原理（二） - 伏草惟存 - 博客园
+https://www.kancloud.cn/thinkphp/mysql-design-optimalize/39324 | 数据中设计中的范式与反范式 · Mysql设计与优化专题 · 看云
+https://www.google.com/search?source=hp&ei=KQlgW-DPEISR8gWgr5SwCA&q=%E5%9E%82%E7%9B%B4%E6%8B%86%E5%88%86+%E6%B0%B4%E5%B9%B3%E6%8B%86%E5%88%86&oq=chuizhichaifen&gs_l=psy-ab.3.1.0l2.1502.4740.0.6022.18.15.2.0.0.0.215.1581.3j8j1.13.0....0...1.1.64.psy-ab..3.15.1666.6..35i39k1j0i131k1j0i131i67k1j0i12k1.73.5UUsrs2q34c | 垂直拆分 水平拆分 - Google 搜索
+https://www.kancloud.cn/thinkphp/mysql-design-optimalize/39326 | 表的垂直拆分和水平拆分 · Mysql设计与优化专题 · 看云
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=oracle%20rac&rsv_pq=a088340d00033e25&rsv_t=ecc02RYR2RRslTcCgL7XWLwtxRjms7EHtRzcHpz93xOuX%2Bwbflh67%2B%2FMz0c&rqlang=cn&rsv_enter=1&rsv_sug3=10&rsv_sug1=10&rsv_sug7=100&rsv_sug2=0&inputT=2361&rsv_sug4=2362 | oracle rac_百度搜索
+
+https://www.google.com/search?ei=PxlgW9iLBdT4hwPr2IX4Dw&q=%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98&oq=%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98&gs_l=psy-ab.3..0i12k1l8.5952.8224.0.8372.17.17.0.0.0.0.207.1678.4j8j1.13.0....0...1.1j4.64.psy-ab..4.13.1674...0j35i39k1j0i131k1j0i67k1j0i203k1.0.e4nAjH8Lyqg | 分布式缓存 - Google 搜索
+http://www.importnew.com/20402.html | 缓存穿透、缓存并发、缓存失效之思路变迁 - ImportNew
+https://blog.csdn.net/xiangwanpeng/article/details/79725692 | 缓存穿透，缓存失效（缓存雪崩）和缓存并发 - CSDN博客
+https://blog.csdn.net/bintime/article/details/6259133 | 分布式缓存 - CSDN博客
+https://juejin.im/entry/57e39e320e3dd90058021bff | 分布式缓存架构基础 - 后端 - 掘金
+https://my.oschina.net/goodyj/blog/790389 | 分布式缓存Redis使用以及原理 - 小建的个人页面 - 开源中国
+
+https://www.cnblogs.com/130701-EYES/p/5323769.html | 淘宝网系统架构分析以及数据库架构简介 - EYES组 - 博客园
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E6%B7%98%E5%AE%9D%E7%BD%91%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84&rsv_pq=faca11800001a9e8&rsv_t=7cdbBMHTC2m3SCSLJf3VBtEBQM5I6f0yk%2Frrpu1nIIzUg94zi6nZ0%2FzU71Q&rqlang=cn&rsv_enter=0&rsv_n=2&rsv_sug3=1&inputT=791&rsv_sug4=791 | 淘宝网系统架构_百度搜索
+https://blog.csdn.net/chen_fly2011/article/details/54911751 | 淘宝的架构 - CSDN博客
+https://www.jianshu.com/p/bf431f8159bd?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io | 优化网站性能必备的6种架构方案，你知道吗？ - 简书
+https://blog.csdn.net/p312011150/article/details/78050261 | 淘宝、天猫、腾讯网站系统架构 - CSDN博客
+file:///D:/desktop/pdf/%E6%B7%98%E5%AE%9D%E6%8A%80%E6%9C%AF%E8%BF%99%E5%8D%81%E5%B9%B4.pdf | 淘宝技术这十年.pdf
+http://www.oracle.com/technetwork/cn/community/developer-day/3-taobao-structure-457247-zhs.pdf | PowerPoint Presentation
+https://www.google.com/search?source=hp&ei=QvhfW7zxHsnX8QXSqLS4DA&q=%E6%B7%98%E5%AE%9D%E7%BD%91%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84&oq=%E6%B7%98%E5%AE%9D%E7%BD%91%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84&gs_l=psy-ab.3...393.393.0.960.2.1.0.0.0.0.141.141.0j1.1.0....0...1.1.64.psy-ab..1.0.0.0...0.Wln5EamHFPw | 淘宝网系统架构 - Google 搜索
+https://blog.csdn.net/qq773837256/article/details/51425599 | 淘宝技术架构变迁 - CSDN博客
+https://blog.csdn.net/jljf_hh/article/details/6860928 | 淘宝的应用无状态（淘宝session框架） - CSDN博客
+https://blog.csdn.net/woaigaolaoshi/article/details/51423187 | 淘宝网采用什么技术架构来实现网站高负载分析 - CSDN博客
+https://wenku.baidu.com/view/48491c08581b6bd97f19eaa0.html | 【图文】淘宝系统架构概述_百度文库
+
+http://dbaplus.cn/news-21-1204-1.html | 细说分布式数据库的过去、现在与未来 - 分布式 - dbaplus社群：围绕Data、Blockchain、AiOps的企业级专业社群。技术大咖、原创干货，每天精品原创文章推送，每周线上技术分享，每月线下技术沙龙。
+http://dbaplus.cn/news-141-1962-1.html | 当云服务融入分布式缓存系统架构，会擦出怎样的火花？ - 分布式 - dbaplus社群：围绕Data、Blockchain、AiOps的企业级专业社群。技术大咖、原创干货，每天精品原创文章推送，每周线上技术分享，每月线下技术沙龙。
+http://www.cnblogs.com/peida/archive/2012/11/05/2754477.html | 每天一个linux命令（13）：less 命令 - peida - 博客园
+https://www.kubernetes.org.cn/doc-11 | Kubernetes（k8s）中文文档 从零开始k8s_Kubernetes中文社区
+https://baike.baidu.com/item/NewSQL | NewSQL_百度百科
+https://baike.baidu.com/item/NoSQL | NoSQL_百度百科
+https://www.google.com/search?source=hp&ei=4R1ZW53pDYf-8gW5j7ngBA&q=Nosql+CAP&oq=Nosql+CAP&gs_l=psy-ab.3..0j0i203k1l2j0i30k1l4j0i5i30k1l2j0i8i30k1.951.3369.0.3713.10.9.0.0.0.0.165.812.7j2.9.0....0...1.1.64.psy-ab..1.9.809.0..35i39k1j0i67k1j0i131k1.0.tQ4JX1Fca1Q | Nosql CAP - Google 搜索
+http://www.sigma.me/2011/06/13/nosql-cap-theorem.html | 非关系型数据库NoSQL理论基础之CAP理论-Sigma
+http://www.sigma.me/2011/08/27/program-correctness-and-memory-consistency.html#more-1114005 | 程序的正确性的一些理解–再谈一致性协议-Sigma
+https://blog.csdn.net/vernonzheng/article/details/8113051 | CAP，BASE和最终一致性是NoSQL数据库存在的三大基石 - CSDN博客
+https://www.google.com/search?ei=KSBZW83XFcjn-QaW8YqwAg&q=history+of+sql+%26+nosql&oq=history+of+sql+%26+nosql&gs_l=psy-ab.3...129015.131168.0.131311.6.6.0.0.0.0.138.427.1j3.4.0....0...1.1.64.psy-ab..2.0.0....0.GXv106SzGEA | history of sql & nosql - Google 搜索
+https://www.google.com/ | Google
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=java%20%E9%BB%98%E8%AE%A4%E6%B3%9B%E5%9E%8B&rsv_pq=a8110431000227b9&rsv_t=3b19zDZtutVJ5nytY5VuGpSDMou0WpYc2sD88Kpox8%2F4UhoxxyEzcuobANo&rqlang=cn&rsv_enter=1&rsv_sug3=17&rsv_sug2=0&inputT=2711&rsv_sug4=3371 | java 默认泛型_百度搜索
+
+http://blog.grio.com/2015/11/sql-nosql-a-brief-history.html | SQL和NOSQL：简史| Grio博客
+https://koukia.ca/azure-documentdb-is-now-part-of-the-azure-cosmos-db-2435947e5b49 | Azure DocumentDB现在是Azure Cosmos DB的一部分
+http://nncnannara.net/Html/English/Java/persist/GuideDictionary.html | Java的微积分 - 指南 - 词典
+https://www.google.com/search?ei=hCpZW9ecBZSroAT32Z2QCg&q=%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F+%E8%AE%BE%E8%AE%A1&oq=%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F+%E8%AE%BE%E8%AE%A1&gs_l=psy-ab.3..0i12k1.20968.26459.0.26622.23.22.1.0.0.0.132.1763.19j3.22.0....0...1.1j4.64.psy-ab..0.22.1695...0j0i30k1j35i39k1j0i67k1j0i4i30k1j0i8i4i30k1j0i8i30k1.0.nE5gyVbLS8E | 分布式文件系统 设计 - Google 搜索
+https://blog.csdn.net/shmnh/article/details/73522402 | 分布式存储系统设计（1）—— 系统架构 - CSDN博客
+https://pingcap.com/docs-cn/ | 文档 | PingCAP
+https://blog.csdn.net/aspirinvagrant/article/details/44671695 | 分布式一致性模型 - CSDN博客
+https://blog.dongyueweb.com/%E5%B0%8F%E8%AE%AE%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%B8%80%E8%87%B4%E6%80%A7%E6%A8%A1%E5%9E%8B.html | 小议分布式系统的一致性模型
+https://www.google.com/search?ei=SlJcW_SiBNHp-QaC9aKIDg&q=leveldb&oq=leveldb&gs_l=psy-ab.3..35i39k1l2j0i67k1l4j0j0i203k1j0l2.4590.4796.0.4945.2.2.0.0.0.0.169.304.0j2.2.0....0...1.1.64.psy-ab..0.2.303....0.YuZQyM0Bx7w | leveldb - Google 搜索
+https://draveness.me/bigtable-leveldb | 浅析 Bigtable 和 LevelDB 的实现
+https://www.google.com/search?source=hp&ei=gaZdW4D6AsnX8QXSqLS4DA&q=key-value+model&oq=key-value+model&gs_l=psy-ab.3..0i203k1j0i30k1l2j0i8i30k1j0i5i30k1l5j0i8i30k1.319.5036.0.6034.24.19.3.0.0.0.269.2275.0j7j5.12.0....0...1.1j4.64.psy-ab..10.14.2106.0..0j0i131k1j0i67k1j0i12k1j0i10k1j0i10i30k1.0.rlmiuhzHjzU | key-value model - Google 搜索
+https://www.google.com/search?source=hp&ei=BbpdW4bOMtXM-QbZ1YS4Cg&q=%E8%B7%A8%E8%A1%8C%E4%BA%8B%E5%8A%A1+%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1&oq=%E8%B7%A8%E8%A1%8C%E4%BA%8B%E5%8A%A1+%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1&gs_l=psy-ab.3...1065.6339.0.6495.37.16.0.0.0.0.0.0..0.0....0...1.1j4.64.psy-ab..37.0.0.0...0.kE0fyXYabs8 | 跨行事务 分布式事务 - Google 搜索
+http://www.infoq.com/cn/articles/solution-of-distributed-system-transaction-consistency | 分布式系统事务一致性解决方案
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E8%B7%A8%E8%A1%8C%E4%BA%8B%E5%8A%A1&rsv_pq=f8dbd57300044da7&rsv_t=8edcCQJh5VjVc7luzHbFmo%2BiCgHr%2BpR8W3LZJmUuanYmwzoGLmSdlk1IlEw&rqlang=cn&rsv_enter=1&rsv_sug3=14&rsv_sug1=4&rsv_sug7=100&rsv_sug2=0&inputT=1709&rsv_sug4=1709 | 跨行事务_百度搜索
+http://www.sohu.com/a/241656176_673711 | PingCAP黄东旭：NewSQL要不要支持跨行事务?_搜狐科技_搜狐网
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=SQL%20%E6%8A%BD%E8%B1%A1%E8%AF%AD%E6%B3%95&oq=%25E8%25AF%25AD%25E6%25B3%2595%25E6%258A%25BD%25E8%25B1%25A1%25E5%25B1%2582&rsv_pq=93597f990004dc1e&rsv_t=1fbdZGB3D3eGC0HDvBSe3PNTsPqaUHr48hHvaNpnTwg19U2EjCxUO8L6qJg&rqlang=cn&rsv_enter=1&inputT=4080&rsv_sug3=21&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&prefixsug=SQL%2520%25E6%258A%25BD%25E8%25B1%25A1%25E8%25AF%25AD%25E6%25B3%2595&rsp=7&rsv_sug4=5041 | SQL 抽象语法_百度搜索
+https://www.jianshu.com/p/8361343cd3ac | OneNote | 使用Markdown语言写OneNote - 简书
+http://www.onenotegem.com/markdown.html | Markdown for OneNote 2.0 - Office OneNote Gem Add-Ins
+
+https://blog.csdn.net/u013256816/article/details/51125842 | Jedis对redis的操作详解 - CSDN博客
+https://www.youtube.com/results?search_query=BASE+Nosql | BASE Nosql - YouTube
+https://www.youtube.com/watch?v=r1bh90_8dsg | 深入浅出BigTable - YouTube
+https://www.youtube.com/channel/UCrTVwxlwmn2CJINfuaiLB1Q/search?query=%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F | BitTiger官方频道 BitTiger Official Channel - YouTube
+https://www.youtube.com/watch?v=BhosKsE8up8&t=4s | Zookeeper：分布式系统入门到实战 - YouTube
+https://leetcode.com/problems/permutation-sequence/description/ | 置换序列 - LeetCode
+https://www.youtube.com/channel/UCrTVwxlwmn2CJINfuaiLB1Q?pbjreload=10 | BitTiger官方频道 BitTiger Official Channel - YouTube
+https://www.youtube.com/channel/UCrTVwxlwmn2CJINfuaiLB1Q/search?query=%E7%A1%85%E8%B0%B7%E4%B9%8B%E8%B7%AF | BitTiger官方频道 BitTiger Official Channel - YouTube
+https://www.google.com/search?source=hp&ei=pSlcW_D2Dpf1wAO9iZrwCA&q=%E5%86%B7%E7%83%AD%E5%8F%8C%E5%A4%87&oq=%E5%86%B7%E7%83%AD%E5%8F%8C%E5%A4%87&gs_l=psy-ab.3...990.6894.0.7049.26.18.4.0.0.0.239.1738.0j10j1.12.0....0...1.1j4.64.psy-ab..10.14.1541.6..0j35i39k1j0i131k1j0i3k1j0i10k1j0i12k1.129.V7UZsWP0GQg | 冷热双备 - Google 搜索
+https://blog.csdn.net/maoji/article/details/53488938 | 什么是冷备，热备，双机热备，异地容灾备份，云备份，NAS，负载均衡？ - CSDN博客
+https://blog.csdn.net/cs408/article/details/48948197 | 冷备份与热备份、双机热备与容错 - CSDN博客
+https://www.google.com/search?ei=bDBcW8HCB8bU-Qayp57gBg&q=%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1&oq=%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1&gs_l=psy-ab.3..0i12k1l4j0i12i10k1j0i12k1l5.604969.607259.0.607376.15.12.0.0.0.0.303.1466.0j5j2j1.8.0....0...1.1j4.64.psy-ab..7.8.1464...0j0i203k1j35i39k1.0.kKPF-NnsoX8 | 分布式事务 - Google 搜索
+https://www.google.com/search?source=hp&ei=SWdcW7nSIcf28QXYiqrgDQ&q=etl&oq=etl&gs_l=psy-ab.3..0l10.208.1478.0.2067.4.3.0.0.0.0.139.351.1j2.3.0....0...1.1.64.psy-ab..1.3.351.0..35i39k1.0.qb4EQf2thI4 | etl - Google 搜索
+http://www.infoq.com/cn/articles/apache-spark-sql | 用Apache Spark进行大数据处理——第二部分：Spark SQL
+https://www.google.com/search?source=hp&ei=pW1cW5iJO5n7-QaW15TQBg&q=share+nothing&oq=share+nothing&gs_l=psy-ab.3...4674.4674.0.4962.2.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..2.0.0.0...0.ICZMBaT6Kyk | share nothing - Google 搜索
+https://zhidao.baidu.com/question/495966886656846564.html | HA架构是什么？_百度知道
+https://www.cnblogs.com/xiaotengyi/p/3582847.html | share-Nothing原理 - Still water run deep - 博客园
+https://blog.csdn.net/xusheng__zhang/article/details/78600375 | shared nothing架构 - CSDN博客
+http://www.infoq.com/cn/articles/etcd-interpretation-application-scenario-implement-principle | etcd：从应用场景到实现原理的全方位解读
+
+https://segmentfault.com/a/1190000004485355 | 复制、分片和路由 - code-craft - SegmentFault 思否
+https://segmentfault.com/a/1190000004499551 | RWN及Quorum与强一致性 - code-craft - SegmentFault 思否
+https://segmentfault.com/a/1190000004474543 | 2PC到3PC到Paxos到Raft到ISR - code-craft - SegmentFault 思否
+https://www.zhihu.com/search?type=content&q=soft%20state | soft state - 搜索结果 - 知乎
+https://www.zhihu.com/question/31813039/answer/53437637 | 支付宝运营架构中柔性事务指的是什么？ - 知乎
+https://wenku.baidu.com/view/d1bbd25877232f60ddcca1d9.html | 支付宝架构与技术_图文_百度文库
+https://zhuanlan.zhihu.com/p/28560167 | 快速理解一致性协议 raft
+https://www.zhihu.com/question/54997169 | raft协议应用方面的疑问？ - 知乎
+http://colobu.com/2017/05/08/raft-and-network-partitions/ | [转]通过 raft 的 leader lease 来解决集群脑裂时的 stale read 问题 | 鸟窝
+
+https://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html | 聊聊分布式事务，再说说解决方案 - Savorboard - 博客园
+http://blog.grio.com/2015/11/sql-nosql-a-brief-history.html | SQL & NOSQL: A Brief History | Grio Blog
+https://www.google.com/search?ei=hCpZW9ecBZSroAT32Z2QCg&q=%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F+%E8%AE%BE%E8%AE%A1&oq=%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F+%E8%AE%BE%E8%AE%A1&gs_l=psy-ab.3..0i12k1.20968.26459.0.26622.23.22.1.0.0.0.132.1763.19j3.22.0....0...1.1j4.64.psy-ab..0.22.1695...0j0i30k1j35i39k1j0i67k1j0i4i30k1j0i8i4i30k1j0i8i30k1.0.nE5gyVbLS8E | 分布式文件系统 设计 - Google 搜索
+https://blog.csdn.net/shmnh/article/details/73522402 | 分布式存储系统设计（1）—— 系统架构 - CSDN博客
+https://blog.csdn.net/turkeyzhou/article/details/7465695 | 分布式文件系统设计主要关注几个方面 - CSDN博客
+
+https://www.google.com/search?ei=h0ZYW8TQAtn7-QbN8pCQBg&q=codis&oq=codis&gs_l=psy-ab.3..0i131k1j0l8j0i10k1.5206975.5208233.0.5208667.5.5.0.0.0.0.344.469.0j1j0j1.2.0....0...1.1j4.64.psy-ab..3.2.468...0i67k1.0.PenEw3W1RAA | codis - Google 搜索
+http://dbaplus.cn/news-141-270-1.html | Codis作者黄东旭：细说分布式Redis架构设计和那些踩过的坑 - 架构 - dbaplus社群：围绕Data、Blockchain、AiOps的企业级专业社群。技术大咖、原创干货，每天精品原创文章推送，每周线上技术分享，每月线下技术沙龙。
+https://www.google.com/search?source=hp&ei=VVtYW4mPNJiHoASU24LgCA&q=jedis&oq=jedis&gs_l=psy-ab.3..0l5j0i203k1j0l4.538.943.0.1261.6.5.0.0.0.0.220.406.0j1j1.2.0....0...1.1j4.64.psy-ab..4.2.406.0..35i39k1j0i131k1.0.lJ2LPRR1ppw | jedis - Google 搜索
+http://www.runoob.com/redis/redis-php.html | PHP 使用 Redis | 菜鸟教程
+https://github.com/CodisLabs/codis/blob/release3.2/doc/tutorial_zh.md | codis/tutorial_zh.md at release3.2 · CodisLabs/codis
+https://github.com/xetorthio/jedis | xetorthio/jedis: A blazingly small and sane redis java client
+
+https://juejin.im/post/5a3b7c1a5188252582278ef2 | 细谈Select,Poll,Epoll - 掘金
+http://www.cnblogs.com/Anker/p/3265058.html | select、poll、epoll之间的区别总结[整理] - Anker's Blog - 博客园
+https://segmentfault.com/a/1190000003063859 | Linux IO模式及 select、poll、epoll详解 - 人云思云 - SegmentFault 思否
+https://blog.csdn.net/skiof007/article/details/52873421 | BIO与NIO、AIO的区别(这个容易理解) - CSDN博客
+https://blog.csdn.net/anxpp/article/details/51512200 | Java 网络IO编程总结（BIO、NIO、AIO均含完整实例代码） - CSDN博客
+https://juejin.im/entry/598da7d16fb9a03c42431ed3 | 以Java的视角来聊聊BIO、NIO与AIO的区别？ - 后端 - 掘金
+
+http://duanple.blog.163.com/blog/static/70971767201133011171419/ | 分布式领域经典论文译序 - 星星的日志 - 网易博客
+http://dbaplus.cn/news-72-1965-1.html | 终于有人把云计算、大数据和人工智能讲明白了！ - 大数据 - dbaplus社群：围绕Data、Blockchain、AiOps的企业级专业社群。技术大咖、原创干货，每天精品原创文章推送，每周线上技术分享，每月线下技术沙龙。
+http://dbaplus.cn/news-21-1204-1.html | 细说分布式数据库的过去、现在与未来 - 分布式 - DBAplus社群：围绕Data、Blockchain、AiOps的企业级专业社群。技术大咖、原创干货，每天精品原创文章推送，每周线上技术分享，每月线下技术沙龙。
+http://dbaplus.cn/news-141-1962-1.html | 当云服务融入分布式缓存系统架构，会擦出怎样的火花？ - 分布式 - DBAplus社群：围绕Data、Blockchain、AiOps的企业级专业社群。技术大咖、原创干货，每天精品原创文章推送，每周线上技术分享，每月线下技术沙龙。
+
+http://duanple.com/?p=170 | 分布式系统领域经典论文翻译集 – duanple
+https://www.cnblogs.com/linbingdong/p/6388621.html | 全球分布式数据库：Google Spanner（论文翻译） - lzslbd - 博客园
+https://blog.csdn.net/sddxyf6/article/details/11984383 | 分布式系统领域经典论文翻译集 - CSDN博客
+http://duanple.blog.163.com/blog/static/70971767201143114111261/ | google系列论文译序 - 星星的日志 - 网易博客
+https://blog.csdn.net/lijy83/article/details/6637126 | Google的5篇经典论文，分布式必读！ - CSDN博客
+https://blog.csdn.net/cool_sti/article/details/41080423 | 【持续更新】分布式领域基本概念 - CSDN博客
+https://blog.csdn.net/kkkloveyou/article/details/60493832 | 用大白话聊聊分布式系统 - CSDN博客
+https://blog.csdn.net/zyhlwzy/article/details/78658002 | 分布式系统核心问题 - CSDN博客
+https://blog.csdn.net/dan15188387481/article/details/49402419 | 分布式系统和集群系统之间的区别 - CSDN博客
+
+https://www.youtube.com/watch?v=FR4QIeZaPeM | What is Database & SQL? - YouTube
+https://www.youtube.com/watch?v=nowcBsX_4kc | 14.005 A Footnote about the Young History of Database Systems - YouTube
+https://www.youtube.com/watch?v=5Vtckv1POxg | History of Databases - YouTube
+https://www.youtube.com/watch?v=g0sx95UyeX8 | NewSQL - YouTube
+https://www.youtube.com/watch?v=Blrd9BVNZbs | NoSQL, WTF! Let’s Talk NewSQL - YouTube
+https://www.youtube.com/channel/UCrTVwxlwmn2CJINfuaiLB1Q/videos | BitTiger官方频道 BitTiger Official Channel - YouTube
+https://www.youtube.com/watch?v=xAiuLJtCZOg | NewSQL大神黄东旭：从0到1，如何设计一个分布式数据库 - YouTube
+https://www.youtube.com/watch?v=WLad7CCexo8 | 深入浅出Google File System - YouTube
+
+https://www.google.com/search?source=hp&ei=q8dVW6v7J4Kq0QTkgbPYAg&q=OLAP%E5%92%8COLTP%E4%B8%9A%E5%8A%A1&oq=OLAP%E5%92%8COLTP%E4%B8%9A%E5%8A%A1&gs_l=psy-ab.3...1322.1322.0.1615.3.1.0.0.0.0.177.177.0j1.1.0....0...1.1.64.psy-ab..2.0.0.0...0._0O4xYydGG4 | OLAP和OLTP业务 - Google 搜索
+https://wenku.baidu.com/view/f10302553c1ec5da50e27009.html | 弄清楚你的业务类型——OLTP or OLAP_百度文库
+https://www.google.com/search?source=hp&ei=tcdVW7zgBczK0gTdyJ_wAQ&q=olap+oltp+difference&oq=OLAP+OLTP+&gs_l=psy-ab.3.0.0i203k1j0j0i203k1l5j0j0i203k1j0.715.3806.0.5243.6.5.0.0.0.0.158.652.1j4.5.0....0...1.1.64.psy-ab..1.5.650.0..35i39k1j0i7i30k1.0.6YieGDRgswA | olap oltp difference - Google 搜索
+https://www.guru99.com/oltp-vs-olap.html | OLTP vs OLAP: What's the Difference?
+https://www.google.com/search?source=hp&ei=IslVW6K7GorJ0ASrs5_QBw&q=spanner+%E5%BA%95%E5%B1%82&oq=spanner+%E5%BA%95%E5%B1%82&gs_l=psy-ab.3...509.11642.0.12072.18.14.1.0.0.0.290.1803.0j7j3.10.0....0...1.1j4.64.psy-ab..8.8.1042.0..0j35i39k1j0i67k1j0i131k1j0i131i67k1j0i10k1j0i203k1j0i12k1j0i30k1j0i8i30k1j0i5i30k1.0.NLg6e7R4D0E | spanner 底层 - Google 搜索
+http://loopjump.com/google_spanner/ | loopjump.com/google_spanner/
+https://github.com/ngaut/builddatabase/blob/master/f1/schema-change.md | builddatabase/schema-change.md at master · ngaut/builddatabase
+https://www.google.com.hk/search?q=%E6%95%B0%E6%8D%AE%E5%88%86%E7%89%87%E7%9A%84%E5%88%86%E8%A3%82%E3%80%81%E8%BF%81%E7%A7%BB&oq=%E6%95%B0%E6%8D%AE%E5%88%86%E7%89%87%E7%9A%84%E5%88%86%E8%A3%82%E3%80%81%E8%BF%81%E7%A7%BB&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | 数据分片的分裂、迁移 - Google 搜索
+http://www.cnblogs.com/xybaby/p/7076731.html | 带着问题学习分布式系统之数据分片 - xybaby - 博客园
+https://juejin.im/entry/589fd9c82f301e00694a383a | 全球分布式数据库：Google Spanner（论文翻译） - 后端 - 掘金
+https://www.jianshu.com/p/6ae6e7989161 | Google-Spanner论文的思考 - 简书
+https://www.google.com/search?biw=1366&bih=645&ei=YcpVW-zDCpndhwOO5oroBw&q=Auto+Failover++paxos&oq=Auto+Failover++paxos&gs_l=psy-ab.3...4219.12103.0.12353.10.8.2.0.0.0.191.953.0j7.7.0....0...1.1.64.psy-ab..1.6.742...0i8i30k1j35i39k1j0i8i10i30k1j0i30k1.0.Sxa6UKccFCE | Auto Failover paxos - Google 搜索
+https://www.google.com/search?source=hp&ei=KMxVW8SSOI7s8wWkoKDQDw&q=TiDB+%E5%BC%80%E6%BA%90%E5%90%97&oq=TiDB+%E5%BC%80%E6%BA%90%E5%90%97&gs_l=psy-ab.3...1527.5999.0.6125.20.14.4.0.0.0.262.1503.0j7j2.9.0....0...1.1j4.64.psy-ab..8.11.1133.0..0j35i39k1j0i10k1j0i203k1j33i160k1.0.kmUXin0z7Fo | TiDB 开源吗 - Google 搜索
+https://github.com/pingcap/docs-cn/issues/166 | TiDB 工具集是开源的吗？ · Issue #166 · pingcap/docs-cn
+https://www.oschina.net/p/tidb | TiDB首页、文档和下载 - 开源分布式 NewSQL 关系型数据库 - 开源中国社区
+https://gitee.com/pingcap/tidb | pingcap/tidb: TiDB is a distributed SQL database.
+https://pingcap.com/docs-cn/ | 文档 | PingCAP
+https://github.com/pingcap/docs-cn/blob/master/tispark/tispark-user-guide.md | docs-cn/tispark-user-guide.md at master · pingcap/docs-cn
+https://pingcap.com/blog-cn/tidb-best-practice/ | TiDB Best Practice| PingCAP
+https://pingcap.com/recruit-cn/tech/tidb-engineer/ | TiDB 研发工程师| PingCAP
+https://slack.com/ | 工作在哪里发生 松弛
+
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93%20%E5%8F%91%E5%B1%95%E5%8E%86%E5%8F%B2&oq=DDBS%2520%25E5%258F%2591%25E5%25B1%2595%25E5%258E%2586%25E5%258F%25B2&rsv_pq=ac59d80200001eb3&rsv_t=95a7xLtPldcoALI0Luj3hfn5cttoWjBpWMC2EsGBfLNSbp7skM%2BcF4FAIXE&rqlang=cn&rsv_enter=1&inputT=4700&rsv_sug3=49&rsv_sug1=11&rsv_sug7=100&rsv_sug2=0&rsv_sug4=5551 | 分布式数据库 发展历史_百度搜索
+https://wenku.baidu.com/view/479b4117240c844768eaeec6.html | 【图文】分布式数据库技术架构的演变与发展方向_百度文库
+https://www.zhihu.com/question/20162489 | 多租户与多用户的区别？ - 知乎
+https://pingcap.com/docs-cn/releases/21beta/ | TiDB 2.1 Beta Release Notes| PingCAP
+https://pingcap.com/blog-cn/tidb-internal-1/ | 三篇文章了解 TiDB 技术内幕 - 说存储| PingCAP
+https://www.google.com.hk/search?q=Paxos&oq=Paxos&aqs=chrome..69i57j69i60j69i61j69i65&sourceid=chrome&ie=UTF-8 | Paxos - Google 搜索
+https://blog.csdn.net/baolibin528/article/details/43706265 | 谷歌三大核心技术（三）Google BigTable中文版 - CSDN博客
+https://blog.csdn.net/baolibin528/article/details/43706257 | 谷歌三大核心技术（二）Google MapReduce中文版 - CSDN博客
+https://blog.csdn.net/baolibin528/article/details/43706243 | 谷歌三大核心技术（一）The Google File System中文版 - CSDN博客
+https://www.cnblogs.com/codeOfLife/p/5375120.html | 初步掌握HDFS的架构及原理 - 刘超★ljc - 博客园
+https://www.google.com.hk/search?q=PR%E7%AE%97%E6%B3%95&oq=PR%E7%AE%97%E6%B3%95&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | PR算法 - Google 搜索
+https://blog.csdn.net/xiaofei0859/article/details/53466008 | gfs和hdfs文件系统的区别 - CSDN博客
+https://blog.csdn.net/mindfloating/article/details/49103611 | 后端分布式系列：分布式存储－HDFS 与 GFS 的设计差异 - CSDN博客
+https://www.zhihu.com/question/55828060 | 如何看待Google的Cloud Spanner? - 知乎
+https://www.google.com.hk/search?q=Google+Percolator&oq=Google+Percolator&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8 | Google Percolator - Google 搜索
+
+https://www.google.com.hk/search?q=%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86&oq=%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86&aqs=chrome..69i57j69i65j69i61.4093j0j8&sourceid=chrome&ie=UTF-8 | 编译原理 - Google 搜索
+https://www.zhihu.com/question/21515496 | 如何学习编译原理？ - 知乎
+https://www.google.com.hk/search?q=Parsing+Techniques&oq=Parsing+Techniques&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Parsing Techniques - Google 搜索
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=0&rsv_idx=1&tn=baidu&wd=parsing%20techniques%20%E4%B8%AD%E6%96%87%E7%89%88&rsv_pq=e90d79730001f6a3&rsv_t=fa63DhAD89rVtGQjr1bjFsiiikxo9sDo%2Bqy017LfvOa0NdYzx0slJ8s%2Boqc&rqlang=cn&rsv_enter=1&rsv_sug3=2&rsv_sug1=2&rsv_sug7=100&rsv_sug2=1&prefixsug=Parsing%2520Techniques&rsp=0&inputT=2564&rsv_sug4=2564 | parsing techniques 中文版_百度搜索
+https://book.douban.com/review/5213803/ | 很好的一本书（Parsing Techniques）书评
+
+https://blog.csdn.net/dellme99/article/details/51884307 | RAFT 与PAXOS区别 - CSDN博客
+https://www.zhihu.com/question/36648084 | raft算法与paxos算法相比有什么优势，使用场景有什么差异？ - 知乎
+https://zhuanlan.zhihu.com/p/25664121 | 比较raft ，basic paxos以及multi-paxos
+https://www.zhihu.com/question/57369798 | 现在有没有好的TiDB实践案例？ - 知乎
+https://segmentfault.com/a/1190000008643974 | TiDB 的正确使用姿势 - NewSQL 数据库 TiDB - SegmentFault 思否
+
+https://my.oschina.net/hunterli/blog/140783 | Linux 查看CPU信息，机器型号，内存等信息 - hunterli的个人空间 - 开源中国
+http://www.cnblogs.com/peida/archive/2012/12/25/2831814.html | 每天一个linux命令（45）：free 命令 - peida - 博客园
+https://www.cnblogs.com/rembau/p/6528476.html | DUBBO监控，设置接口调用数据的上报周期 - rembau - 博客园
+https://blog.csdn.net/doctor_who2004/article/details/48877591 | dubbo 自定义过滤器，打印接口调用信息 - CSDN博客
+https://www.jianshu.com/p/9d4bd8955d1a | Spring自定义注解的使用和解析 - 简书
+https://blog.csdn.net/mafan121/article/details/50212137 | Spring自定义注解 - CSDN博客
+https://blog.csdn.net/u012859681/article/details/77573948 | Redis集群方案理解及实践 - CSDN博客
+https://www.cnblogs.com/me115/p/9043420.html | 大厂们的 redis 集群方案 - 大CC - 博客园
+https://juejin.im/post/5a707f4d5188255a8817f5b1 | Redis集群方案怎么做？大牛给你介绍五种方案！ - 掘金
+https://www.zhihu.com/question/21419897 | (8 条消息)Redis集群方案应该怎么做？ - 知乎
+https://www.jianshu.com/p/14835303b07e | Redis集群方案总结 - 简书
+https://www.baidu.com/s?ie=UTF-8&wd=Disruptor | Disruptor_百度搜索
+https://www.google.com.hk/search?q=Disruptor&oq=Disruptor&aqs=chrome..69i57j69i60l2&sourceid=chrome&ie=UTF-8 | Disruptor - Google 搜索
+http://ifeve.com/disruptor/ | 并发框架Disruptor译文 | 并发编程网 – ifeve.com
+http://ifeve.com/lmax/ | LMAX架构 | 并发编程网 – ifeve.com
+https://tech.meituan.com/disruptor.html | 高性能队列——Disruptor -
+https://book.douban.com/subject/26591326/ | Java并发编程的艺术 (豆瓣)
+http://www.infoq.com/cn/minibooks/art-of-java-concurrent-program | Java 并发编程的艺术
+https://book.douban.com/subject/26555197/comments/ | Java多线程编程核心技术 短评
+https://book.douban.com/subject_search?search_text=java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B&cat=1001 | java多线程编程 - 读书 - 豆瓣搜索
+
+http://blog.chinaunix.net/xmlrpc.php?r=blog/article&uid=29632145&id=4616836 | JVM内存区域划分Eden Space、Survivor Space、Tenured Gen，Perm Gen解释-jerry_ye-ChinaUnix博客
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=java%20%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA%20%E4%B8%8DGC&rsv_pq=9525ba6300046233&rsv_t=48c1gtowHfHuKLR8PK9Hm%2FC4Q%2BviIxW0a118bcorKf9GiiJPXB8xI5HcVls&rqlang=cn&rsv_enter=1&rsv_sug3=22&rsv_sug1=2&rsv_sug7=100&rsv_sug2=0&inputT=8178&rsv_sug4=8179 | java 内存溢出 不GC_百度搜索
+https://jingyan.baidu.com/article/f3ad7d0f19d07709c3345b9a.html | Java常见的几种内存溢出及解决方法_百度经验
+https://blog.csdn.net/u013233097/article/details/52270387 | java对于垃圾回收机制[GC垃圾回收机制] 为什么有GC还会有内存溢出呢？ - CSDN博客
+
+http://confluence.midea.com/pages/viewpage.action?pageId=11907754 | 接口管理平台-docker环境搭建 - 金融技术架构项目 - Confluence
+http://confluence.midea.com/pages/viewpage.action?pageId=11906532 | 5.2016.07月份能力培养计划 - 金融工作管理 - Confluence
+http://confluence.midea.com/pages/viewpage.action?pageId=11906507 | 1.技术能力模型 - 金融工作管理 - Confluence
+http://confluence.midea.com/pages/viewpage.action?pageId=11906501 | 5.4后端工具链 - 金融工作管理 - Confluence
+
+http://old.sebug.net/paper/databases/nosql/Nosql.html#BASE_9958890723064542_78222997_869969945038222 | NoSQL数据库笔谈
+https://www.jdon.com/concurrent/acid-database.html | 什么是数据库ACID? -解道Jdon
+https://www.jdon.com/artichect/acid-cap.html | ACID和CAP的详尽比较 -解道Jdon
+https://www.baidu.com/s?ie=UTF-8&wd=CAP%2CBASE%E5%92%8C%E6%9C%80%E7%BB%88%E4%B8%80%E8%87%B4%E6%80%A7 | CAP,BASE和最终一致性_百度搜索
+https://www.jdon.com/artichect/paxos.html | 分布式系统Paxos算法 -解道Jdon
+https://www.jdon.com/artichect/raft.html | 分布式系统的Raft算法 - 解道Jdon
+http://thesecretlivesofdata.com/raft/ | Raft
+https://www.jdon.com/46956 | ACID中C与CAP定理中C的区别
+http://blog.sina.com.cn/s/blog_4b1452dd0102wv85.html | 从本科知识开始Java、TCPIP、Socket、Servlet再到完整理解SSH、SSM等概念（一）_flash胜龙_新浪博客
+https://blog.csdn.net/sdjkjsdh/article/details/51569481 | Socket与Servlet的简单理解 - CSDN博客
+https://blog.csdn.net/qq_27481603/article/details/53200356 | socket servlet websocket 概念 区别与联系 - CSDN博客
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=dubbo%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96&oq=dubbo%2520%25E5%25B9%25B6%25E5%258F%2591%25E5%25BE%2588%25E5%258D%25A1&rsv_pq=ec61f17300042af4&rsv_t=b86605mynxbxr0RoMPedHtYDAO6%2BKjxLJmJ2uCvL3b%2FYsKfEuqSy3ZyGkMU&rqlang=cn&rsv_enter=1&inputT=2456&rsv_sug3=41&rsv_sug1=18&rsv_sug7=100&rsv_sug2=0&prefixsug=dubbo%2520%25E6%2580%25A7%25E8%2583%25BD&rsp=0&rsv_sug4=2947 | dubbo 性能优化_百度搜索
+https://blog.csdn.net/lzwglory/article/details/69289395 | Dubbo性能优化 - CSDN博客
+https://my.oschina.net/aruan/blog/425288 | 慎用异常（Exception） - 阿阮的个人空间 - 开源中国
+https://stackoverflow.com/questions/299068/how-slow-are-java-exceptions | performance - How slow are Java exceptions? - Stack Overflow
+https://www.cnblogs.com/cyfonly/p/8987043.html | Dubbo性能调优参数及原理 - cyfonly - 博客园
+https://blog.csdn.net/lzwglory/article/details/69289395 | Dubbo性能优化 - CSDN博客
+https://blog.csdn.net/zhengyangzkr/article/details/71486903 | Dubbo 并发调优的几个参数 - CSDN博客
+
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E7%BD%91%E7%BB%9C%E5%88%86%E5%8C%BA&rsv_pq=b013a435000218cc&rsv_t=5451xOnCuYGiXeIuaFDfBVm6zSTj25SnC8esEVa07lCbcgBZRWqZH6ecpog&rqlang=cn&rsv_enter=1&rsv_sug3=13&rsv_sug1=9&rsv_sug7=100&rsv_sug2=0&inputT=2581&rsv_sug4=2581 | 网络分区_百度搜索
+https://www.zhihu.com/question/54105974 | (1 封私信 / 80 条消息)CAP理论中的P到底是个什么意思？ - 知乎
+https://github.com/aphyr/partitions-post | aphyr/partitions-post: A blog post on network partitions in practice
+https://www.zhihu.com/topic/19827601/hot | (1 封私信 / 80 条消息)并发并行与分布式系统 - 知乎
+https://www.zhihu.com/topic/19773813/hot | (1 封私信 / 80 条消息)分布式一致性 - 知乎
+https://www.zhihu.com/topic/19570823/hot | (1 封私信 / 80 条消息)分布式系统 - 知乎
+https://blog.csdn.net/wynwdblh/article/details/72597170 | 分布式系统与网络分区 - CSDN博客
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=CAP&rsv_pq=fb5344520000daf6&rsv_t=2520BkVCL15DkQmKMs5KXI6QEbjgX1zWoK6%2BuQRIBggNyFpQo6YxwwInRM0&rqlang=cn&rsv_enter=1&rsv_sug3=9&rsv_sug1=4&rsv_sug7=100&rsv_sug2=0&inputT=2637&rsv_sug4=91164 | CAP_百度搜索
+https://baike.baidu.com/item/CAP%E5%8E%9F%E5%88%99/5712863?fr=aladdin | CAP原则_百度百科
+https://blog.csdn.net/wetest_tencent/article/details/72190379 | 日活上百万时，腾讯产品如何提前规避服务器宕机风险？ - CSDN博客
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F&rsv_pq=e89a40ba00012d21&rsv_t=75b7LctJ%2FnlEn3Hn38GPKYmG%2Be4W4eA5rHfD47DbumAQtCR1Ql9RI%2B9aFI0&rqlang=cn&rsv_enter=1&rsv_sug3=16&rsv_sug1=12&rsv_sug7=100&rsv_sug2=0&inputT=2343&rsv_sug4=2343 | 分布式系统_百度搜索
+https://blog.csdn.net/eroswang/article/details/8332735 | 分布式系统开发里必须要解决的3个技术问题 - CSDN博客
+https://www.cnblogs.com/xybaby/p/7787034.html | 什么是分布式系统，如何学习分布式系统 - xybaby - 博客园
+https://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/4905336?fr=aladdin | 分布式系统_百度百科
+https://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F | 分布式文件系统_百度百科
+https://www.zhihu.com/question/28292740 | (1 封私信 / 80 条消息)什么是函数式编程思维？ - 知乎
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%AE%A1%E7%AE%97%2B%E5%AD%98%E5%82%A8&oq=%25E7%25A8%258B%25E5%25BA%258F%253D%25E7%25AE%2597%25E6%25B3%2595%252B%25E6%2595%25B0%25E6%258D%25AE%25E7%25BB%2593%25E6%259E%2584&rsv_pq=fd4952e7000024ac&rsv_t=07624jaZhZO48Uy3Az4nqcXX9bgNPQ3gEkwGGTgoVIj%2BNtiBO1tAez1WZOo&rqlang=cn&rsv_enter=1&inputT=1935&rsv_sug3=27&rsv_sug1=21&rsv_sug7=100&rsv_sug2=0&rsv_sug4=2829 | 计算+存储_百度搜索
+http://www.dostor.com/p/43546.html | 计算、存储和网络简史 – 存储在线
+https://www.baidu.com/s?ie=UTF-8&wd=%E6%9D%B0%E6%96%87%E6%96%AF%E6%95%88%E5%BA%94 | 杰文斯效应_百度搜索
+https://baike.baidu.com/item/%E4%BB%A5%E5%A4%AA%E7%BD%91/99684?fr=aladdin | 以太网_百度百科
+http://36kr.com/p/200605.html | 化繁为简，返璞归真：Keep It Simple, Stupid_36氪
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8&rsv_pq=ee35b5a20005a8e4&rsv_t=918aBNBxDmcGL44sM9njwbLWbjo5bt6p7gDGmoicW7J3mWCY57SpXoL2BaA&rqlang=cn&rsv_enter=1&rsv_sug3=16&rsv_sug1=15&rsv_sug7=100&rsv_sug2=0&inputT=2121&rsv_sug4=2122 | 分布式存储_百度搜索
+https://blog.csdn.net/hxl_1993/article/details/62896197 | （一）分布式存储综述 - CSDN博客
+https://www.jdon.com/artichect/paxos.html | 分布式系统Paxos算法 -解道Jdon
+https://www.baidu.com/s?ie=UTF-8&wd=Paxos%E7%AE%97%E6%B3%95 | Paxos算法_百度搜索
+https://www.cnblogs.com/linbingdong/p/6253479.html | 分布式系列文章——Paxos算法原理与推导 - lzslbd - 博客园
+https://www.cnblogs.com/endsock/p/3480093.html | Paxos算法细节详解(一)--通过现实世界描述算法 - KimSky - 博客园
+https://www.baidu.com/ | 百度一下，你就知道
+
+https://blog.csdn.net/en_joker/article/details/78604625 | 分布式一致性问题。 - CSDN博客
+https://blog.csdn.net/weiguang_123/article/details/52078413 | 分布式理论：关于一致性讨论 - CSDN博客
+https://baike.baidu.com/item/%E4%B8%80%E8%87%B4%E6%80%A7%E6%A8%A1%E5%9E%8B/7503912?fr=aladdin | 一致性模型_百度百科
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1&rsv_pq=ea9a231300015148&rsv_t=56b7W9p3gAkGe4yFhQ9xJX5YMitwaeIVCdNA0f%2BRxtZZEDbHPw5cQe0wj5E&rqlang=cn&rsv_enter=1&rsv_sug3=15&rsv_sug1=12&rsv_sug7=100&rsv_sug2=0&inputT=2091&rsv_sug4=2091 | 分布式事务_百度搜索
+https://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html | 聊聊分布式事务，再说说解决方案 - Savorboard - 博客园
+https://www.cnblogs.com/qducn/p/7406706.html | undo/redo功能的原理和思路 - 奋斗的蜗牛cn - 博客园
+https://baike.baidu.com/item/Redo/5267067?fr=aladdin | Redo（单词）_百度百科
+https://zhidao.baidu.com/question/288053406.html | ORACLE中，数据库的redo与undo分别是什么呀，两者是什么关系呢？_百度知道
+https://www.jdon.com/concurrent/acid-database.html | 什么是数据库ACID? -解道Jdon
+https://baike.baidu.com/item/acid/10738?fr=aladdin | acid（数据库事务正确执行的四个基本要素的缩写）_百度百科
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E6%82%B2%E8%A7%82%E9%94%81%E5%92%8C%E4%B9%90%E8%A7%82%E9%94%81%E7%9A%84%E5%8C%BA%E5%88%AB&rsv_pq=e456a2be0001b630&rsv_t=ad13OsjOJAJW8ljOUi8gVxOW4sBJaoTpo7diPxZS11rX3nu3HNjvuCgT8PY&rqlang=cn&rsv_enter=1&rsv_sug3=18&rsv_sug1=22&rsv_sug7=100&rsv_sug2=0&prefixsug=%25E6%2582%25B2%25E8%25A7%2582%25E9%2594%2581&rsp=0&inputT=11790&rsv_sug4=11790 | 悲观锁和乐观锁的区别_百度搜索
+http://www.hollischuang.com/archives/923 | MySQL中的共享锁与排他锁-HollisChuang's Blog
+http://www.hollischuang.com/archives/914 | MySQL中的行级锁,表级锁,页级锁-HollisChuang's Blog
+https://www.baidu.com/s?wd=%E5%8E%9F%E5%AD%90%E6%80%A7%20%E4%B8%80%E8%87%B4%E6%80%A7%20%E5%8C%BA%E5%88%AB&f=12&rsp=0&oq=%E5%8E%9F%E5%AD%90%E6%80%A7%20%E4%B8%80%E8%87%B4%E6%80%A7%20%E5%8D%B4%E5%88%AB&ie=utf-8&rsv_idx=1&rsv_pq=d4b44eee0001769b&rsv_t=d1bahV7oO744ntWhMhqcjIqSLqt%2FfSa4jB8CzwPyyQR2Kw7rvoozKvG%2Bg80&rqlang=cn | 原子性 一致性 区别_百度搜索
+https://segmentfault.com/q/1010000005984017 | 事务一致性与原子性的区别 - SegmentFault 思否
+http://geyifan.cn/2016/07/17/talk-about-transaction/ | 事务隔离级别浅析 | 葛一凡
+https://www.baidu.com/s?ie=UTF-8&wd=MVCC | MVCC_百度搜索
+https://baike.baidu.com/item/MVCC/6298019?fr=aladdin | MVCC_百度百科
+https://segmentfault.com/a/1190000004437275 | 【深入浅出事务】（2）：Java的事务 - 极简小站 - SegmentFault 思否
+https://www.cnblogs.com/kakawater/p/7112860.html?utm_source=itdadao&utm_medium=referral | 写时复制(Copy-On-Write) - kakawater - 博客园
+http://ifeve.com/java-copy-on-write/ | 聊聊并发-Java中的Copy-On-Write容器 | 并发编程网 – ifeve.com
+
+https://www.cnblogs.com/qmfsun/p/5591732.html | Linux中查看jdk版本 - Agoly - 博客园
+https://segmentfault.com/a/1190000004474543 | 2PC到3PC到Paxos到Raft到ISR - code-craft - SegmentFault 思否
+https://segmentfault.com/a/1190000004468442 | 从ACID到CAP到BASE - code-craft - SegmentFault 思否
+https://book.douban.com/subject/26292004/ | 从Paxos到Zookeeper (豆瓣)
+https://book.douban.com/tag/%E7%BC%96%E7%A8%8B | 豆瓣图书标签: 编程
+https://book.douban.com/subject/3288908/ | 集体智慧编程 (豆瓣)
+https://book.douban.com/subject/1885170/ | 算法导论（原书第2版） (豆瓣)
+https://www.cnblogs.com/zhuli19901106/p/cracking-the-coding-interview.html | 《Cracking the Coding Interview》读书笔记 - zhuli19901106 - 博客园
+https://www.baidu.com/s?ie=UTF-8&wd=poj | poj_百度搜索
+https://blog.csdn.net/shujiezhang/article/details/78066874 | 2PC，Raft和Paxos笔记 - CSDN博客
+
+https://zhidao.baidu.com/question/116166691.html?qbl=relate_question_2&word=%B7%D6%B2%BC%CA%BD%CA%FD%BE%DD%BF%E2%CA%C7%CA%B2%C3%B4 | 什么是分布式系统！？作用是什么、好处是什么？_百度知道
+https://baike.baidu.com/item/%E6%8A%95%E5%BD%B1%E8%BF%90%E7%AE%97/4712235 | 投影运算_百度百科
+https://zhidao.baidu.com/question/226875750.html | 什么是分布式数据库的分布透明性_百度知道
+https://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/5389644?fr=aladdin | 分布式数据库系统_百度百科
+https://www.baidu.com/s?ie=UTF-8&wd=%E8%81%94%E9%82%A6%E5%BC%8F%E5%88%86%E5%B8%83%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F | 联邦式分布数据库系统_百度搜索
+https://zhidao.baidu.com/question/1381994975611483780.html | 什么是联邦式数据库系统？_百度知道
+https://www.baidu.com/s?wd=%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F&tn=SE_PcZhidaonwhc_ngpagmjz&rsv_dl=gh_pc_zhidao | 分布式数据库系统_百度搜索
+http://www.docin.com/p-984271363-f3.html | 一种云存储名字空间架构的研究与设计 - 豆丁网
+https://blog.csdn.net/psiitoy/article/details/73201444 | [分享]浅谈分布式数据库 - CSDN博客
+https://www.cnblogs.com/langtianya/p/7677102.html | 怎样打造一个分布式数据库 - chuquan.ou - 博客园
+https://stackoverflow.com/ | Stack Overflow - Where Developers Learn, Share, & Build Careers
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93%20%E5%8F%91%E5%B1%95%E5%8E%86%E5%8F%B2&oq=DDBS%2520%25E5%258F%2591%25E5%25B1%2595%25E5%258E%2586%25E5%258F%25B2&rsv_pq=ac59d80200001eb3&rsv_t=95a7xLtPldcoALI0Luj3hfn5cttoWjBpWMC2EsGBfLNSbp7skM%2BcF4FAIXE&rqlang=cn&rsv_enter=1&inputT=4700&rsv_sug3=49&rsv_sug1=11&rsv_sug7=100&rsv_sug2=0&rsv_sug4=5551 | 分布式数据库 发展历史_百度搜索
+https://blog.csdn.net/xyw591238/article/details/51644331 | 从分布式数据库结构入手讲解其前世今生 - CSDN博客
+https://www.oschina.net/news/84386/about-distributed-database?utm_source=tuicool | 细说分布式数据库的过去、现在与未来 - 开源中国社区
+https://www.cnblogs.com/andy6/p/6011959.html | OLAP和OLTP的区别(基础知识) - 张冲andy - 博客园
+https://baike.baidu.com/item/spanner/6763355?fr=aladdin | spanner_百度百科
+http://xueshu.baidu.com/s?wd=DDBS&tn=SE_baiduxueshu_c1gjeupa&cl=3&ie=utf-8&bs=paperuri%3A%28b62a52bf081b5a2791b93fc4aa217830%29&f=8&rsv_bp=1&rsv_sug2=1&sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D | DDBS_百度学术
+http://xueshu.baidu.com/s?wd=paperuri%3A%28b62a52bf081b5a2791b93fc4aa217830%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FMain%2FDetail.aspx%3Fid%3D3261892&ie=utf-8&sc_us=12671366704756123272 | DDBS中实现分割数据库重构的一致性算法
+http://www.cqvip.com/read/read.aspx?id=3261892 | DDBS中实现分割数据库重构的一致性算法-【维普网】-仓储式在线作品出版平台-www.cqvip.com
+https://wenku.baidu.com/view/d26e8b68d1f34693dbef3e47.html | 分布式数据库综述报告_百度文库
+https://blog.csdn.net/wjq821230/article/details/494177 | 集中式计算、分布式计算、协作式计算的区别 - CSDN博客
+https://www.cnblogs.com/xdp-gacl/p/3619249.html | 关系型数据库理论 - 孤傲苍狼 - 博客园
+https://zhidao.baidu.com/question/939875781421575892.html | 数据库中的传统集合运算怎么理解？看不懂？_百度知道
+
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E9%97%B4%E4%BB%B6&rsv_pq=948c06f400069432&rsv_t=56aexbHJjL0EEo4xluFSk9fUW%2FHIMgBqxwKMeAsZ0ga4Vz95xnCCwu3uWE4&rqlang=cn&rsv_enter=1&rsv_sug3=2&rsv_n=2&rsv_sug2=0&inputT=461&rsv_sug4=464 | 数据访问中间件_百度搜索
+https://www.cnblogs.com/grefr/p/6087942.html | 数据库相关中间件介绍 - grefr - 博客园
+https://blog.csdn.net/z50L2O08e2u4afToR9A/article/details/78434466 | 究竟为什么要引入数据库中间件 - CSDN博客
+https://blog.csdn.net/u013256816/article/details/52769297 | 数据库相关中间件收录集 - CSDN博客
+http://confluence.midea.com/pages/viewpage.action?pageId=15861797 | 冲销 - 金融全球资金项目 - Confluence
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=exception%20did%20not%20accept%20task&oq=did%2520not%2520accept%2520task&rsv_pq=8692f6550003cde8&rsv_t=b340uAcqXcMClkwtp0LDYmlBa3dilroOIfuATZhTUW9zDP0mmdcTWIkS88w&rqlang=cn&rsv_enter=0&inputT=1659&rsv_sug3=16&rsv_sug2=0&rsv_sug4=1840 | exception did not accept task_百度搜索
+https://blog.csdn.net/q2365921/article/details/60321916 | org.springframework.core.task.TaskRejectedException:Executor[]did not accept task异常解决 - CSDN博客
+https://blog.csdn.net/wzy_1988/article/details/38922449 | 解决java.util.concurrent.RejectedExecutionException - CSDN博客
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=0&rsv_idx=1&tn=baidu&wd=threadpooltaskexecutor%20%E9%98%BB%E5%A1%9E&rsv_pq=c3df7c3c000169f2&rsv_t=8180ueBoipGX%2BJ7%2FMmcO19mFrwIKEgqlQmcik%2B2G2a6j2VxLENdR88m3axM&rqlang=cn&rsv_enter=1&rsv_sug3=14&rsv_sug1=6&rsv_sug7=100&rsv_sug2=0&prefixsug=ThreadPoolTask%2526gt%253Bxecutor%2520&rsp=1&inputT=4881&rsv_sug4=4881 | threadpooltaskexecutor 阻塞_百度搜索
+https://blog.csdn.net/u012899746/article/details/72832120 | spring线程池ThreadPoolTaskExecutor与阻塞队列BlockingQueue - CSDN博客
+
+https://www.jianshu.com/c/47901d197f62 | MySQL数据库 - 专题 - 简书
+https://www.jianshu.com/p/814cf518f88d | 数据库事务特征、数据库隔离级别，各级别数据库加锁情况(含实操)--Repeatable Rea... - 简书
+https://www.jianshu.com/p/fd51cb8dc03b | 数据库事务特征、数据库隔离级别，各级别数据库加锁情况(含实操)--read committed... - 简书
+https://www.jianshu.com/p/d75fcdeb07a3 | 数据库事务特征、数据库隔离级别，以及各级别数据库加锁情况(含实操)--read uncommi... - 简书
+https://tech.meituan.com/404 | 亲，没找到你要的页面 - 美团点评技术团队
+https://segmentfault.com/search?q=MVCC | 搜索 MVCC - SegmentFault 思否
+https://segmentfault.com/a/1190000012655091 | mysql(InnoDB)事务隔离级别(READ COMMITTED) 与 锁,MVCC - 编程空间 - SegmentFault 思否
+https://segmentfault.com/a/1190000012669504 | 搞懂 不可重复读和幻读 - 编程空间 - SegmentFault 思否
+https://segmentfault.com/a/1190000012659380 | mysql(InnoDB)事务隔离级别(REPEATABLE READ) 与 锁,MVCC - 编程空间 - SegmentFault 思否
+https://segmentfault.com/a/1190000009374567 | MYSQL中的乐观锁实现(MVCC)简析 - 参考消息 - SegmentFault 思否
+https://blog.csdn.net/wen3011/article/details/78548521 | 锁与CAS介绍 - CSDN博客
+https://www.cnblogs.com/chenpingzhao/p/5065316.html | 【mysql】关于innodb中MVCC的一些理解 - 踏雪无痕SS - 博客园
+
+https://segmentfault.com/a/1190000012654564 | mysql(InnoDB)事务隔离级别(READ UNCOMMITTED) 与 锁 - 编程空间 - SegmentFault 思否
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=innodb%20%E9%94%81&oq=lock_type%2520record&rsv_pq=b03d48bc00011455&rsv_t=c791C4HsSWbmrFeVmtqLy6QR5aFB2b9ApdqCPUFJFOkdsu8UmXlQybZ46bQ&rqlang=cn&rsv_enter=1&inputT=7726&rsv_sug3=41&rsv_sug1=22&rsv_sug7=100&rsv_sug2=0&prefixsug=InnoDB%2520s&rsp=0&rsv_sug4=15971 | innodb 锁_百度搜索
+https://www.cnblogs.com/janehoo/p/5603983.html | [小结]了解innodb锁 - 风的_理想 - 博客园
+https://www.cnblogs.com/aipiaoborensheng/p/5767459.html | MySQL－ InnoDB锁机制 - 爱漂泊人生 - 博客园
+https://blog.csdn.net/hw_libo/article/details/39080809 | MySQL锁阻塞分析 - CSDN博客
+https://blog.csdn.net/cug_jiang126com/article/details/50596729 | 理解innodb的锁(record,gap,Next-Key lock) - CSDN博客
