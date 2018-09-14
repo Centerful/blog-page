@@ -1,3 +1,18 @@
+.blog-overlay {
+  position: fixed;
+  top: -1000px;
+  right: -1000px;
+  bottom: -1000px;
+  left: -1000px;
+  background: rgba(0,0,0,.4);
+  z-index: 1000;
+  /*opacity: 0;*/
+  display: none;
+}
+.overlay-show {
+  display: block;
+  /*这里需要将body设置为overflow: hidden;用于禁止滚动*/
+}
 .clear {
   clear: both;
 }
