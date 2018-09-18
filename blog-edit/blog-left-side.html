@@ -2,7 +2,7 @@
 <html lang="zh">
 <head>
 <meta charset="UTF-8">
-<title>编辑文章</title>
+<title>编辑文章-侧边栏</title>
 <!-- <link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.min.css">
 <script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/js/mdui.min.js"></script> -->
 <link rel="stylesheet" href="./../css/flex.css">
@@ -447,11 +447,18 @@ Andrew->>China: I am good thanks!
     </div>
   </div>
   <!--  -->
-  <div class="edit-left-side">
-    <div class="edit-left-container"></div>
+  <div class="edit-left-side-fake">
+    <section></section>
   </div>
-  <div class="edit-left-side-mask">
+  <div class="edit-left-container">
+    <div class="edit-left-mask"></div>
+    <div class="edit-left-side">
+      <header></header>
+      <section></section>
+    </div>
   </div>
+  
+
   <div class="edit-tool-bar">
     <div class="edit-tool-container"></div>
   </div>
@@ -462,6 +469,26 @@ Andrew->>China: I am good thanks!
   <script type="text/javascript" src="./../blog-assets/waves.js/waves.js"></script>
   <script src="./js/jquery.min.js"></script>
   <script src="./js/editormd.js"></script>
+  <script>
+    // hover边框
+    $(".edit-left-side-fake > section").hover(function(){
+      $('.edit-left-side-fake').addClass('hover')
+    },function(){
+      $('.edit-left-side-fake').removeClass('hover')
+    });
+    // click边框
+    $('.edit-left-side-fake').click(function(){
+      // $('html').addClass('overflow-hide');
+      $('.edit-left-side').addClass('loaded');
+      $('.edit-left-mask').addClass('loaded');
+    });
+    $('.edit-left-mask').click(function(){
+      // $('html').removeClass('overflow-hide');
+      $('.edit-left-side').removeClass('loaded');
+      $('.edit-left-mask').removeClass('loaded');
+    });
+    
+  </script>
   <script>
     // Waves.attach('.avatar-wapper-img', ['waves-circle']);
     // Waves.attach('.post-meta-img');

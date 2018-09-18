@@ -16,14 +16,106 @@
   width: 100%;
   height: 192px;
   background-color: #f7f8f9;
-  border: 1px solid;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ccc;
+  box-shadow: 0 1px 1px -1px rgba(0,0,0,.2), 0 1px 3px 0 rgba(0,0,0,.14), 0 1px 2px 0 rgba(0,0,0,.12);
+  margin-bottom: 15px;
 }
 .edit-title {
   max-width: 660px;
   width: 100%;
-  height: 65px;
+  height: 50px;
+  margin: 10px 0;
+  padding-left: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  border: 0px;
+  outline: none;
 }
 .edit-content {
   max-width: 660px;
   width: 100%;
+}
+.edit-left-side-fake {
+  position: fixed;
+  top: 0;
+  left: -45px;
+  height: 100%;
+  background-color: #777;
+  width: 45px;
+  opacity: 0;
+  transition: left .15s ease-in-out,opacity .2s ease-in-out;
+}
+.edit-left-side-fake.hover {
+  left: 0px;
+  opacity: 1;
+  transition: left .15s ease-in-out,opacity .2s ease-in-out;
+}
+.edit-left-side-fake > section {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 30px;
+  opacity: 0;
+}
+.edit-left-side {
+  position: fixed;
+  top: 0;
+  height: 100%;
+  width: 350px;
+  background-color: #fff;
+  z-index: 99;
+  box-shadow: 0 11px 15px -7px rgba(0,0,0,.2), 0 24px 38px 3px rgba(0,0,0,.14), 0 9px 46px 8px rgba(0,0,0,.12);
+
+  left: -360px;
+  opacity: 0.8;
+  transition: left .15s ease-in-out,opacity .15s ease-in-out;
+}
+.edit-left-side.loaded {
+  left: 0px;
+  opacity: 1;
+  transition: left .15s ease-in-out,opacity .15s ease-in-out;
+}
+
+.edit-left-mask {
+  position: fixed;
+  top: -1000px;
+  right: -1000px;
+  bottom: -1000px;
+  left: -1000px;
+  /*background: rgba(0,0,0,.4);*/
+  background: rgba(255,255,255,0.8);
+  z-index: 98;
+  /*display: none;*/
+  opacity: 0.8;
+  display: none;
+  transition: opacity .2s ease-in-out;
+}
+.edit-left-mask.loaded {
+  /*display: block;*/
+  opacity: 1;
+  display: block;
+  transition: opacity .2s ease-in-out;
+}
+
+.edit-left-side > header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  align-content: flex-start;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 55px;
+  padding: 0 12px;
+  background: #1b82f1;
+  transition: background 0.3s;
+  box-shadow: 0 6px 12px -3px rgba(0,0,0,0.2);
+  overflow: hidden;
+  flex-shrink: 0;
+  /*z-index: 3;*/
 }

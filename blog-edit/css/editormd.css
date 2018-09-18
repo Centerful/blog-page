@@ -694,10 +694,10 @@
   padding: 0 5px;
 }
 .editormd .CodeMirror-selected {
-  background: #70B7FF;
+  background: #dfdfdf;
 }
 .editormd .CodeMirror-focused .CodeMirror-selected {
-  background: #70B7FF;
+  background: #dfdfdf;
 }
 .editormd .CodeMirror, .editormd .CodeMirror-scroll, .editormd .editormd-preview {
   -webkit-overflow-scrolling: touch;
