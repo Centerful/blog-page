@@ -453,8 +453,124 @@ Andrew->>China: I am good thanks!
   <div class="edit-left-container">
     <div class="edit-left-mask"></div>
     <div class="edit-left-side">
-      <header></header>
-      <section></section>
+      <header>
+        <div title="7篇文章" class="edit-left-header-number">
+          <strong>7</strong>
+          <span>文章</span>
+        </div>
+        <div class="edit-left-header-bar">
+          <a href="#">搜索</a>
+          <a href="#">排序</a>
+          <a href="#">多功能按钮</a>
+        </div>
+      </header>
+      <section class="edit-left-content">
+        <ul>
+          <li class="e-dir">
+            <a href="#">
+              <span class="e-left">
+                <span class="e-icon">图标</span>
+                <span class="e-name">村上春树</span>
+              </span>
+              <span class="e-btn">设置</span>
+            </a>
+            <ul>
+              <li>
+                <a class="e-create-blog" href="#">
+                  <span class="e-left">
+                    <span class="e-icon">图标</span>
+                    <span class="e-name">新建文章</span>
+                  </span>
+                  <span class="e-btn">设置</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <span class="e-left">
+                    <span class="e-icon">图标</span>
+                    <span class="e-name">且听风吟</span>
+                  </span>
+                  <span class="e-btn">设置</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <span class="e-left">
+                    <span class="e-icon">图标</span>
+                    <span class="e-name">挪威的森林</span>
+                  </span>
+                  <span class="e-btn">设置</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <span class="e-left">
+                    <span class="e-icon">图标</span>
+                    <span class="e-name">国境以南,太阳以西</span>
+                  </span>
+                  <span class="e-btn">设置</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="e-dir">
+            <a href="#">
+              <span class="e-left">
+                <span class="e-icon">图标</span>
+                <span class="e-name">轻小说</span>
+              </span>
+              <span class="e-btn">设置</span>
+            </a>
+            <ul>
+              <li>
+                <a class="e-create-blog" href="#">
+                  <span class="e-left">
+                    <span class="e-icon">图标</span>
+                    <span class="e-name">新建文章</span>
+                  </span>
+                  <span class="e-btn">设置</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <span class="e-left">
+                    <span class="e-icon">图标</span>
+                    <span class="e-name">在地下城寻求邂逅是否搞错了什么</span>
+                  </span>
+                  <span class="e-btn">设置</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <span class="e-left">
+                    <span class="e-icon">图标</span>
+                    <span class="e-name">欢迎来到实力至上主义教室</span>
+                  </span>
+                  <span class="e-btn">设置</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <span class="e-left">
+                    <span class="e-icon">图标</span>
+                    <span class="e-name">刀剑神域</span>
+                  </span>
+                  <span class="e-btn">设置</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <span class="e-left">
+                    <span class="e-icon">图标</span>
+                    <span class="e-name">魔法科高中的劣等生</span>
+                  </span>
+                  <span class="e-btn">设置</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </section>
     </div>
   </div>
   
@@ -487,7 +603,18 @@ Andrew->>China: I am good thanks!
       $('.edit-left-side').removeClass('loaded');
       $('.edit-left-mask').removeClass('loaded');
     });
-    
+    $(".e-dir > a").click(function() {
+      $(this).next().toggleClass("dir-open");
+      if($(this).next().hasClass("dir-open")){
+        $(this).next().css("height", $(this).next().children().length * 44);
+      }else{
+        $(this).next().css("height","0");
+      }
+    });
+    $(".e-btn").click(function(e){
+      
+      e.stopPropagation();
+    });
   </script>
   <script>
     // Waves.attach('.avatar-wapper-img', ['waves-circle']);
