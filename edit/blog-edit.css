@@ -145,7 +145,28 @@
   font-size: 0.9em;
 }
 .edit-left-content {
-
+  height: 100%;
+  overflow-y: scroll;
+}
+/*滚动条凹槽的颜色，还可以设置边框属性*/
+.edit-left-content::-webkit-scrollbar-track-piece { 
+  background-color:#fff;
+}
+/*滚动条的宽度*/
+.edit-left-content::-webkit-scrollbar {
+  width:5px;
+  /*height: 15px;*/
+}
+/*滚动条的设置*/
+.edit-left-content::-webkit-scrollbar-thumb {
+  background-color: #bbb;
+  background-clip: padding-box;
+  border-radius: 2px;
+  /*min-height: 40px;*/
+}
+/*hover设置*/
+.edit-left-content::-webkit-scrollbar-thumb:hover {
+  background-color:#26A69A;
 }
 .edit-left-content > ul {
   font-size: 0.9em;
