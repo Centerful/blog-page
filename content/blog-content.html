@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="../css/blog-home.css">
 <link rel="stylesheet" href="blog-content.css">
 <link rel="stylesheet" href="blog-comments.css">
-
+<link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css">
 </head>
 <body class="flex-mid flex-small">
   <!-- 
@@ -28,6 +28,9 @@
         <div class="head-wapper">
           <!-- 返回按钮  评论:34(查看评论)  赞:1(点赞)  多功能按钮  下篇文章 -->
           <div class="head-inner">
+            <a href="./../list/blog-list-down-page.html" class="head-back">
+              <i class="fa fa-angle-left"></i>  
+            </a>
           </div>
         </div>
       </div>
@@ -242,7 +245,9 @@
             <div class="recommendations-list">
               <!-- 这里的btn可以放在卡片的两端. -->
               <div class="recommendations-left">
-                <div class="recommendations-left-btn"></div>
+                <div class="recommendations-btn left">
+                  <i class="fa fa-angle-left"></i>
+                </div>
               </div>
               <div class="recommendations-items">
                 <div class="recommendations-item"></div>
@@ -251,13 +256,14 @@
                 <div class="recommendations-item"></div>
               </div>
               <div class="recommendations-right">
-                <div class="recommendations-right-btn"></div>
+                <div class="recommendations-btn right">
+                  <i class="fa fa-angle-right"></i>
+                </div>
               </div>
             </div>
           </div>
           <div class="blog-recommendations-blur"></div>
         </div>
-        <div class="blog-footer">Website design by<span>Centerful.</span></div>
       </div>
       <div class="layout-footer">
         <div class="footer-wapper">
@@ -268,7 +274,7 @@
     </div>
   </div>
   <div class="blog-overlay"></div>
-  <div class="muti-btn">
+  <div class="multi-bar">
     <div class="blog-btn btn"></div>
     <div class="note-btn btn"></div>
     <div class="edit-btn btn"></div>
@@ -349,11 +355,23 @@
       </div>
     </div>
   </div>
+  <div class="multi-bar">
+    <div class="columns-btn btn"><a href="./../columns/blog-columns.html"><i class="fa fa-columns"></i></a></div>
+    <div class="blog-btn btn"><a href="./../list/blog-list-down-page.html"><i class="fa fa-book"></i></a></div>
+    <div class="talk-btn btn"><a href="./../talk/blog-talk.html"><i class="fa fa-comments-o"></i></a></div>
+    <div class="edit-btn btn"><a href="./../edit/blog-edit.html"><i class="fa fa-pencil"></i></a></div>
+  </div>
+  <div class="footer">
+    Website design by <span>Centerful.</span>
+  </div>
   <div class="blog-overlay overlay-show" style="display: none;"></div>
   <script type="text/javascript" src="../blog-assets/waves.js/waves.js"></script>
   <script>
     // Waves.attach('.avatar-wapper-img', ['waves-circle']);
     Waves.attach('.blog-meta-img');
+    Waves.attach('.btn');
+    Waves.attach('.head-back');
+    Waves.attach('.recommendations-btn');
 
     Waves.init();
   </script>

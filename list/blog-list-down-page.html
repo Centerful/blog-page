@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="../css/tags-init.css">
 <link rel="stylesheet" href="../css/blog-home.css">
 <link rel="stylesheet" href="../blog-assets/waves.js/waves.css">
-
+<link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css">
 </head>
 <body class="flex-mid flex-small">
   <!-- 
@@ -37,7 +37,7 @@
             </div>
             <div class="post-right-side flex-mid flex-small">
               <div class="post-title">
-                <a class="post-title-a" href="#">
+                <a class="post-title-a" href="./../content/blog-content.html">
                   <h2>幸存的男孩</h2>
                 </a>
               </div>
@@ -232,21 +232,25 @@
             </div>
           </div>
         </article>
-        <article class="post-item wait"> . . . </article>
+        <div class="loading"><i class="fa fa-spinner fa-spin"></i></div>
       </div>
     </div>
   </div>
-  <div class="muti-btn">
-    <div class="blog-btn btn"></div>
-    <div class="note-btn btn"></div>
-    <div class="edit-btn btn"></div>
-    <div class="user-btn btn"></div>
+  <div class="multi-bar">
+    <div class="columns-btn btn"><a href="./../columns/blog-columns.html"><i class="fa fa-columns"></i></a></div>
+    <div class="blog-btn btn"><a href="./../list/blog-list-down-page.html"><i class="fa fa-book"></i></a></div>
+    <div class="talk-btn btn"><a href="./../talk/blog-talk.html"><i class="fa fa-comments-o"></i></a></div>
+    <div class="edit-btn btn"><a href="./../edit/blog-edit.html"><i class="fa fa-pencil"></i></a></div>
   </div>
-  <div class="footer"></div>
+  <div class="footer">
+    Website design by <span>Centerful.</span>
+  </div>
   <script type="text/javascript" src="../blog-assets/waves.js/waves.js"></script>
   <script>
     // Waves.attach('.avatar-wapper-img', ['waves-circle']);
     Waves.attach('.post-meta-img');
+    Waves.attach('.head-back');
+    Waves.attach('.btn');
 
     Waves.init();
   </script>

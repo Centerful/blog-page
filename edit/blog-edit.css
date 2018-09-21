@@ -120,6 +120,7 @@
   box-shadow: 0 6px 12px -3px rgba(0,0,0,0.2);
   overflow: hidden;
   color: #fff;
+  z-index: 10;
 }
 .edit-left-header-number {
   display: flex;
@@ -139,10 +140,25 @@
 }
 .edit-left-header-bar {
   cursor: default;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .edit-left-header-bar > a {
   color: #fff;
-  font-size: 0.9em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 50%;
+  margin: 0 1px;
+  width: 34px;
+  height: 34px;
+  transition: background-color 0.3s ease-in-out;
+}
+.edit-left-header-bar > a:hover {
+  background-color: #ffffff30;
+  transition: background-color 0.3s ease-in-out;
 }
 .edit-left-content {
   height: 100%;
@@ -236,9 +252,32 @@
   background: inherit;
   padding: 5px;
   border-radius: 2px;
-  /*transition: background 0.1s ease-in-out; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out; 
+}
+.e-btn.show {
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out;  
 }
 .e-btn:hover {
   background: #cecece;
   transition: background 0.25s ease-in-out;  
+}
+.edit-footer {
+  position: absolute;
+  width: 100%;
+  height: 40px;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ddd;
+}
+.edit-footer > a {
+  font-size: 0.97em;
+  padding: 10px;
 }

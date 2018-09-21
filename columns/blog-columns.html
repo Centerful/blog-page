@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="../css/blog-home.css">
 <link rel="stylesheet" href="blog-columns.css">
 <link rel="stylesheet" href="../blog-assets/waves.js/waves.css">
+<link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css">
 
 </head>
 <body class="flex-mid flex-small">
@@ -37,8 +38,8 @@
                   <div class="columns-bg-mask"></div>
                   <div class="columns-bg-inner">
                     <span class="columns-summary">随心写作，自由表达</span>
-                    <button class="columns-write-btn">开始写文章</button>
-                    <button class="columns-open-btn">开通专栏</button>
+                    <button class="columns-write-btn"><a href="./../edit/blog-edit.html">开始写文章</a></button>
+                    <button class="columns-open-btn"><a href="blog-columns-open.html">开通专栏</a></button>
                   </div>
                 </div>
               </div>
@@ -56,7 +57,7 @@
                     <img src="assets/hogwarts.jpg" alt="">  
                   </div>
                   <div class="columns-item-content">
-                    <div class="columns-item-title">霍格沃兹研究会</div>
+                    <div class="columns-item-title"><a href="blog-columns-content.html">霍格沃兹研究会</a></div>
                     <div class="columns-item-summary">It is not our abilities that show what we truly are , it is our choices.</div>
                     <div class="columns-item-footer">
                       <div class="columns-item-left">
@@ -79,7 +80,7 @@
                     <img src="assets/hogwarts.jpg" alt="">  
                   </div>
                   <div class="columns-item-content">
-                    <div class="columns-item-title">霍格沃兹研究会</div>
+                    <div class="columns-item-title"><a href="blog-columns-content.html">霍格沃兹研究会</a></div>
                     <div class="columns-item-summary">It is not our abilities that show what we truly are , it is our choices.</div>
                     <div class="columns-item-footer">
                       <div class="columns-item-left">
@@ -93,23 +94,28 @@
                   </div>
                 </div>
               </div>
-              <div class="loading-area">...</div>
+              <div class="loading"><i class="fa fa-spinner fa-spin"></i></div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="muti-btn">
-    <div class="blog-btn btn"></div>
-    <div class="note-btn btn"></div>
-    <div class="edit-btn btn"></div>
-    <div class="user-btn btn"></div>
+  <div class="multi-bar">
+    <div class="columns-btn btn"><a href="./../columns/blog-columns.html"><i class="fa fa-columns"></i></a></div>
+    <div class="blog-btn btn"><a href="./../list/blog-list-down-page.html"><i class="fa fa-book"></i></a></div>
+    <div class="talk-btn btn"><a href="./../talk/blog-talk.html"><i class="fa fa-comments-o"></i></a></div>
+    <div class="edit-btn btn"><a href="./../edit/blog-edit.html"><i class="fa fa-pencil"></i></a></div>
   </div>
-  <div class="footer"></div>
+  <div class="footer">
+    Website design by <span>Centerful.</span>
+  </div>
   <script type="text/javascript" src="../blog-assets/waves.js/waves.js"></script>
   <script>
     // Waves.attach('.avatar-wapper-img', ['waves-circle']);
     Waves.attach('.columns-item-img img');
+
+    Waves.attach('.head-back');
+    Waves.attach('.btn');
 
     Waves.init();
   </script>

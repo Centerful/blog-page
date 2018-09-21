@@ -71,6 +71,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
+  margin-bottom: 60px;
 }
 .columns-item{
   width: 262px;

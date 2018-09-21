@@ -61,7 +61,29 @@
   border-bottom: 1px solid #C6C6C6;
   opacity: 0.955;
   z-index: 999;
+  display: flex;
+  align-items: center;
 }
+.head-back {
+  z-index: 9999;
+  font-size: 2em;
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 10px;
+  border-radius: 6px;
+  padding: 4px;
+  color: #808080;
+  transition: all 0.5s ease-out;
+}
+.head-back:hover {
+  background-color: #d2d2d2;
+  transition: all 0.5s ease-out;
+}
+
 .layout-body {
   display: flex;
   flex-direction: row;
@@ -215,6 +237,16 @@
   text-transform: uppercase;
   margin: 0 2px;
 }
+.loading {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loading > i {
+  font-size: 1.2em;
+  color: #5a5a5a;
+}
 .footer {
   color: #aaa;
   font-size: 0.7em;
@@ -231,7 +263,7 @@
   cursor: pointer;
   font-style: italic;
 }
-.muti-btn {
+.multi-bar {
   position: fixed;
   /*
   居中的button
@@ -242,26 +274,49 @@
   */
   /*左下角button*/
   left: 2%;
-  bottom: 2%;
+  bottom: 4.5%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 .btn{
-  width: 43px;
-  height: 43px;
+  width: 40px;
+  height: 40px;
   background-color: #757575;
-  margin: 10px 0;
-  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 5px -1px, rgba(0, 0, 0, 0.14) 0px 6px 10px 0px, rgba(0, 0, 0, 0.12) 0px 1px 18px 0px;
+  margin: 3px 0;
+  /**/
   will-change: box-shadow;
   border-radius: 50%;
   cursor: pointer;
 
-  background-color: #fff;
+  background-color: inherit;
   border-color: #fff;
+  transition: all 0.5s ease-out;
 }
-/*.blog-btn {
+.btn:hover{
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 1px 1px, rgba(0, 0, 0, 0.14) 0px 3px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px;
+  background-color: #cacaca;
+  transition: background-color 0.5s ease-out;
+}
+.btn:active {
+  background-color: #ccc;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 15px -1px, rgba(0, 0, 0, 0.14) 0px 6px 10px 0px, rgba(0, 0, 0, 0.12) 0px 1px 18px 0px;
+  transition: background-color 0.5s ease-out;
+}
+.btn > a {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn > a > i {
+  font-size: 1.45em;
+  color: #636363;
+}
+/* .blog-btn {
+  
   background-color: rgb(233, 30, 99);
   border-color: rgb(233, 30, 99);
 }
@@ -276,4 +331,4 @@
 .user-btn {
   background-color: rgb(76, 175, 80);
   border-color: rgb(76, 175, 80);
-}*/
+} */
