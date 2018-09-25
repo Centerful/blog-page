@@ -203,8 +203,8 @@
   transition: background 0.3s ease-in-out;
 }
 .e-dir > a:hover {
-  background: #ececec;
-  transition: background 0.3s ease-in-out;
+  /*background: #ececec;
+  transition: background 0.3s ease-in-out;*/
 }
 .e-create-blog {
   color: #aaa;
@@ -221,8 +221,8 @@
   transition: background 0.3s ease-in-out;
 }
 .e-dir > ul > li > a:hover {
-  background: #ececec;
-  transition: background 0.3s ease-in-out;
+  /*background: #ececec;
+  transition: background 0.3s ease-in-out;*/
 }
 .e-dir > ul {
   height:0px;

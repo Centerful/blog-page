@@ -33,7 +33,21 @@
   cursor: pointer;
 }
 .send-emoji {
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2em;
+  border-radius: 50%;
+  margin: 0;
+  -webkit-font-smoothing: subpixel-antialiased;
+  height: 38px;
+  color: #737373;
+  width: 38px;
+  transition: all 0.3s;
+}
+.send-emoji:hover {
+  color: #000;
+  transition: all 0.3s;
 }
 .send-toolbar-right {
   display: flex;
@@ -108,11 +122,15 @@
   font-size: 0.8em;
 }
 .talk-item-bar {
+  color: #555;
   cursor: pointer;
   margin: 10px;
   position: absolute;
   top: 0;
   right: 0;
+}
+.talk-item-bar.private{
+  color: #eee;
 }
 .talk-right-centent {
   font-size: 0.9em;
@@ -129,6 +147,7 @@
 .talk-footer-bar {
   display: flex;
   margin-bottom: 8px;
+  align-items: baseline;
 }
 .talk-footer-btn {
   margin-right: 30px;
@@ -140,12 +159,18 @@
 .talk-footer-btn.inline {
   display: inline-block;
 }
+.talk-footer-btn.inline > i {
+  font-size: 0.9em;
+  margin-left: 6px;
+  position: relative;
+  top: -1px;
+  color: #555;
+}
 .talk-footer-btn.open {
   margin-bottom: 15px;
 }
 .talk-footer-zen {
   margin-right: 25px;
-  font-size: 0.9em;
   display: flex;
   align-items: baseline;
 }
